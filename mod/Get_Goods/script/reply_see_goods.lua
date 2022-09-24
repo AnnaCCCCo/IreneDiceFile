@@ -18,7 +18,7 @@ if string.find(goodscode, goodname)then
     goodsCodeFile:close()
 
     local filetext
-    file = io.open("Dice1208585235\\Lists\\Goods_"..code..".txt", "r")
+    file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_"..code..".txt", "r")
     filetext = file:read("*a")
     msg.goods = goodname
     msg.inv = filetext

@@ -1,5 +1,7 @@
-reply_add_goods: "{inv}\n已记入本地文档：Goods_{goodsname}.txt√\n已加入背包√"
+reply_add_goods: "{inv}\n已记入本地文档√\n已加入背包√"
 reply_see_goods: "以下是谷：{goods}的手速排表：\n{inv}"
 reply_add_yp: "{cn}已经做好{goodsname}的余量图了~"
 reply_add_db: "{cn}已经打好{goodsname}的排表了~"
 reply_set_goodscode: "已将{goodscode}名称设置为：{goodname}"
+reply_add_force: "{inv}\n{nick}排了一个强制位~"
+reply_move_force: "有人想要转位，让我们看看：\n{inv}"

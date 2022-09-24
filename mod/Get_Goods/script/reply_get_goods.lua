@@ -8,6 +8,9 @@ local temp = string.sub(text,string.find(text,"\"pics\""),"-1")--,string.find(te
 local temp = string.sub(temp,string.find(temp,"qungz/")+6,"-1")
 local pic = string.sub(temp,string.find(temp,"/")+1,string.find(temp,"!!")-1)
 
+if string.find(pic,"*") then
+    pic = string.sub(pic,"1",string.find(pic,"*")-1)
+end
 
 local cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
 local cn = cnString
@@ -36,7 +39,7 @@ if (msg.fromQQ == "2176452830")then
 end
 
 list = {}
-local goodsname = pic
+local goodsname = "[某种代码]"
 
 goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
 goodscode = goodsCodeFile:read("*a")
@@ -56,28 +59,39 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
     table.insert(list,"- cn："..cn)
     table.insert(list,"- 排："..goods)
 
-    fileList = {}
-    table.insert(fileList," - qq号："..qqnum)
-    table.insert(fileList," - cn："..cn)
-    table.insert(fileList," - 排："..goods)
+    if(string.find(goodsname,"妈位")) then
+        if (string.find(goodsname,"转位")) then
+            msg.inv = goods;
+            return "{reply_move_force}"
+        end
+        msg.inv = table.concat(list,"\n")
+        return "{reply_add_force}"
+    else
+        --fileList = {}
+        --table.insert(fileList," - qq号："..qqnum)
+        --table.insert(fileList," - cn："..cn)
+        --table.insert(fileList," - 排："..goods)
 
-    local file = io.open("Dice1208585235\\Lists\\Goods_"..pic..".txt", "a+")
-    file:write(table.concat(fileList), "\n")
-    file:close()
+        local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+        file:write(table.concat(list), "\n")
+        file:close()
 
-    pc = getPlayerCard(msg.uid,msg.gid or 0)
-    local personalList = pc._Inventory or {}
-    local backpack = goodsname.." 的 "..goods
-    table.insert(personalList, {name=backpack})
-    pc._Inventory = personalList
-    msg.inv = table.concat(list,"\n")
-    return "{reply_add_goods}"
-    --return goodsname
+        pc = getPlayerCard(msg.uid,msg.gid or 0)
+        local personalList = pc._Inventory or {}
+        local backpack = goodsname.." 的 "..goods
+        table.insert(personalList, {name=backpack})
+        pc._Inventory = personalList
+        msg.inv = table.concat(list,"\n")
+        return "{reply_add_goods}"
+    end
+    --return pic
 else if(goods == "yp")then
     msg.cn = cn
+    msg.goodsname = goodsname
     return "{reply_add_yp}"
 else if(goods == "db")then
     msg.cn = cn
+    msg.goodsname = goodsname
     return "{reply_add_db}"
 else if(goods == "tt")then
     return "妈咪这边排~"
