@@ -1,0 +1,24 @@
+2022-09-20 10:16:12	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 10:16:12	1	读取用户记录29条 读取玩家记录15条 读取群聊记录3条 用户数据读取完毕
+2022-09-20 10:16:12	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口59189运行，本地可通过浏览器访问localhost:59189\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-09-20 13:55:59	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共22个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 13:55:59	1	已手动加载艾丽妮的配置√
+2022-09-20 14:01:21	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共22个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 14:01:21	1	已手动加载艾丽妮的配置√
+2022-09-20 14:09:39	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 14:09:39	1	已手动加载艾丽妮的配置√
+2022-09-20 14:10:58	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 14:10:58	1	已手动加载艾丽妮的配置√
+2022-09-20 15:17:43	8	警告：艾丽妮所在系统CPU占用达99.6%
+2022-09-20 15:22:45	2	提醒：艾丽妮所在系统CPU占用降至20.3%
+2022-09-20 16:53:11	8	警告：艾丽妮所在系统CPU占用达100%
+2022-09-20 17:03:24	2	提醒：艾丽妮所在系统CPU占用降至22.8%
+2022-09-20 19:21:17	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-20 19:21:17	1	读取用户记录32条 读取玩家记录15条 读取群聊记录3条 用户数据读取完毕
+2022-09-20 19:21:17	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口55262运行，本地可通过浏览器访问localhost:55262\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-09-20 19:22:30	8	警告：艾丽妮所在系统CPU占用达100%
+2022-09-20 19:27:31	2	提醒：艾丽妮所在系统CPU占用降至14.2%

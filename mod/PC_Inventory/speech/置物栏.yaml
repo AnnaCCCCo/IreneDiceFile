@@ -1,0 +1,10 @@
+reply_inventory_empty: "{pc}当前置物栏空空如也~"
+reply_inventory_show: "{pc}当前置物栏:\n{inv}"
+reply_inventory_cnt_limited: "{pc}当前置物栏已达到数量上限!"
+reply_inventory_add: "已将{item}放入{pc}的置物栏\n当前物品:\n{inv}"
+reply_inventory_add_empty: "请{pc}输入待放入的物品"
+reply_inventory_del: "已将{item}移出{pc}的置物栏\n剩余物品:\n{inv}"
+reply_inventory_del_empty: "请{pc}输入待移出的物品"
+reply_inventory_not_found: "{pc}的置物栏内并无{item}×"
+reply_inventory_clean: "{pc}的置物栏已被清空"
+

@@ -1,0 +1,16 @@
+{
+ "chats": [
+  {
+   "gid": 667546784
+  }
+ ],
+ "create_time": 1663904436,
+ "log": {
+  "file": "g667546784_1663904436.txt",
+  "lastMsg": 1663905896,
+  "logging": false,
+  "name": "1663904436",
+  "start": 0
+ },
+ "update_time": 1663907853
+}

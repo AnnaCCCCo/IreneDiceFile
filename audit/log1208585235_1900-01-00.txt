@@ -1,0 +1,2 @@
+	2	艾丽妮运行lua文件D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua失败:D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua:8: attempt to index a nil value (global 'msg_reply')
+	2	艾丽妮运行lua文件D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua失败:D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua:8: attempt to index a nil value (global 'msg_reply')

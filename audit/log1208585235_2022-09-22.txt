@@ -1,0 +1,5 @@
+2022-09-22 15:45:36	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-22 15:45:36	1	读取用户记录35条 读取玩家记录15条 读取群聊记录3条 用户数据读取完毕
+2022-09-22 15:45:36	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口59564运行，本地可通过浏览器访问localhost:59564\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级

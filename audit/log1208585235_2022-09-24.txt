@@ -1,0 +1,20 @@
+2022-09-24 00:04:06	1	好友添加请求，来自 ARCAHV(3596884774):我是ARCAHV xy江梓钺\n已同意
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:8: 'then' expected near 'goodsname'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:8: 'then' expected near 'goodsname'
+2022-09-24 08:51:41	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech14项\n注册reply7项\n注册event0项\n注册script7份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-24 08:51:41	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:12: attempt to use a closed file
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:12: attempt to use a closed file
+2022-09-24 08:59:33	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech14项\n注册reply7项\n注册event0项\n注册script7份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-24 08:59:33	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:42: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:45: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:48: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:45: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:23: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:27: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:15: bad argument #2 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:15: bad argument #2 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:16: attempt to concatenate a nil value (global 'filename')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:65: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:65: attempt to index a nil value (local 'file')

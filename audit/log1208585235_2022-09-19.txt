@@ -1,0 +1,24 @@
+2022-09-19 10:32:42	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的7个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的12条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:32:42	1	读取用户记录26条 读取玩家记录12条 读取群聊记录2条 用户数据读取完毕
+2022-09-19 10:32:42	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口62715运行，本地可通过浏览器访问localhost:62715\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-09-19 10:38:32	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的13条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:38:32	1	已手动加载艾丽妮的配置√
+2022-09-19 10:44:37	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的14条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:44:37	1	已手动加载艾丽妮的配置√
+2022-09-19 10:47:29	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的15条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:47:29	1	已手动加载艾丽妮的配置√
+2022-09-19 10:48:05	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的15条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:48:05	1	已手动加载艾丽妮的配置√
+2022-09-19 10:53:17	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的5个脚本, 共20个指令\n读取/conf/CustomMsgReply.json中的17条自定义回复\n扩展配置读取完毕√
+2022-09-19 10:53:17	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用来一杯回复失败!\n[string "drawDeck("来一杯", msg.fromGroup, msg.fromQQ)..."]:1: bad argument #1 to 'drawDeck' (number expected, got string)
+	2	艾丽妮调用来一杯回复失败!\n[string "drawDeck("来一杯")"]:1: bad argument #3 to 'drawDeck' (string expected, got no value)
+	2	艾丽妮调用来一杯回复失败!\n[string "drawDeck("来一杯",,)"]:1: unexpected symbol near ','
+	2	艾丽妮调用来一杯回复失败!\n[string "return drawDeck("来一杯", msg.fromGroup, msg...."]:1: bad argument #1 to 'drawDeck' (number expected, got string)
+2022-09-19 23:23:32	1	好友添加请求，来自 不！要！吃！谷！(2770269826):京墨\n已同意
+2022-09-19 23:26:51	1	好友添加请求，来自 Alexia(1130664176):白洛\n已同意
+2022-09-19 23:43:54	1	好友添加请求，来自 猕猴桃观察日记(2465729874):骰娘\n已同意
+2022-09-19 23:45:51	1	群添加请求，来自：【捡漏】小白(2465729874),群:[](742830508)[0/0]已同意
+2022-09-19 23:46:00	1	艾丽妮新加入:[罗德岛驻湘理分岛](742830508)[63/1000],邀请者【捡漏】小白(2465729874)，群主缓缓打出一个啊这(2809220883)；\n用户浓度1% (1/62), 信任度0

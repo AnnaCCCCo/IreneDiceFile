@@ -1,0 +1,106 @@
+2022-09-23 11:39:42	1	艾丽妮新加入:[晚钟夜曲、Irene、Night B](667546784)[3/1000],邀请者Night Bells’n Nocturne.Raythal(674037656)，群主Night Bells’n Nocturne.Raythal(674037656)；\n用户浓度50% (1/2), 信任度258.5\n可识别同系Dice!1位
+2022-09-23 12:04:56	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-23 12:04:56	1	读取用户记录38条 读取玩家记录15条 读取群聊记录4条 用户数据读取完毕
+2022-09-23 12:04:56	1	艾丽妮初始化完成，用时1秒
+	1	Dice! WebUI 正于端口54849运行，本地可通过浏览器访问localhost:54849\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-09-23 12:56:05	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的7个脚本, 共24个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-23 13:00:36	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的7个脚本, 共24个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-23 13:00:36	1	读取用户记录41条 读取玩家记录15条 读取群聊记录4条 用户数据读取完毕
+2022-09-23 13:00:36	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口61614运行，本地可通过浏览器访问localhost:61614\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+	2	艾丽妮运行lua文件D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua失败:D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua:8: attempt to index a nil value (global 'msg_reply')
+2022-09-23 13:15:10	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的7个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-23 13:15:10	1	读取用户记录41条 读取玩家记录15条 读取群聊记录4条 用户数据读取完毕
+2022-09-23 13:15:10	1	艾丽妮初始化完成，用时1秒
+	1	Dice! WebUI 正于端口61815运行，本地可通过浏览器访问localhost:61815\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+	2	艾丽妮运行lua文件D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua失败:D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua:8: attempt to index a nil value (global 'msg_reply')
+	2	艾丽妮运行lua文件D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua失败:D:\Personal\Mirai\DICE12~1\plugin\getgoods.lua:8: attempt to index a nil value (global 'msg_reply')
+2022-09-23 13:17:01	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的1个mod\n录入speech8项\n注册reply3项\n注册event0项\n注册script3份\n录入help词条3项\n读取/plugin/中的8个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 13:17:01	1	已手动加载艾丽妮的配置√
+2022-09-23 13:20:14	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech16项\n注册reply4项\n注册event0项\n注册script4份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 13:20:14	1	已手动加载艾丽妮的配置√
+2022-09-23 14:05:17	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech9项\n注册reply4项\n注册event0项\n注册script4份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 14:05:17	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用get_goods回复返回值格式错误(table)!
+	2	艾丽妮调用get_goods回复返回值格式错误(table)!
+	2	艾丽妮调用get_goods回复返回值格式错误(table)!
+	2	艾丽妮调用get_goods回复返回值格式错误(table)!
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:31: attempt to concatenate a nil value (global 'goodsname')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:32: attempt to concatenate a nil value (local 'goodsname')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:33: bad argument #1 to 'write' (string expected, got table)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:36: attempt to index a nil value (local 'file')
+2022-09-23 17:22:35	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech9项\n注册reply5项\n注册event0项\n注册script5份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:22:35	1	已手动加载艾丽妮的配置√
+2022-09-23 17:27:27	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech10项\n注册reply5项\n注册event0项\n注册script5份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:27:27	1	已手动加载艾丽妮的配置√
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:4: 'then' expected near 'goodsname'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:11: unexpected symbol near '*'
+2022-09-23 17:32:30	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech10项\n注册reply5项\n注册event0项\n注册script5份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:32:30	1	已手动加载艾丽妮的配置√
+2022-09-23 17:35:14	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech10项\n注册reply5项\n注册event0项\n注册script5份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:35:14	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:36: attempt to index a nil value (local 'file')
+2022-09-23 17:43:30	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech11项\n注册reply5项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:43:30	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_inventory_clean失败:D:\Personal\Mirai\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:1: attempt to index a nil value (global 'pc')
+2022-09-23 17:48:26	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech11项\n注册reply5项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:48:26	1	已手动加载艾丽妮的配置√
+2022-09-23 17:49:09	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech11项\n注册reply6项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 17:49:09	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:43: bad argument #1 to 'insert' (table expected, got nil)
+	2	艾丽妮运行lua脚本reply_inventory_show失败:D:\Personal\Mirai\DICE12~1\mod\PC_INV~1\script\REPLY_~3.LUA:8: attempt to concatenate a nil value (field 'name')
+	2	艾丽妮运行lua脚本reply_inventory_show失败:D:\Personal\Mirai\DICE12~1\mod\PC_INV~1\script\REPLY_~3.LUA:8: attempt to concatenate a nil value (field 'name')
+2022-09-23 18:32:42	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech11项\n注册reply6项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 18:32:42	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:9: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:9: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:46: bad argument #1 to 'insert' (table expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:47: bad argument #1 to 'insert' (table expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:47: bad argument #1 to 'insert' (table expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+2022-09-23 19:28:24	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech11项\n注册reply6项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 19:28:24	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:41: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:40: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:40: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:40: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: bad argument #3 to 'sub' (number expected, got string)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:10: attempt to perform arithmetic on a nil value
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:60: 'then' expected near 'return'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:61: 'then' expected near 'msg'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:67: 'end' expected (to close 'if' at line 60) near <eof>
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:67: 'end' expected (to close 'if' at line 60) near <eof>
+2022-09-23 22:27:08	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech13项\n注册reply6项\n注册event0项\n注册script6份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-09-23 22:27:08	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:56: attempt to concatenate a table value
+	2	艾丽妮运行lua脚本reply_inventory_show失败:D:\Personal\Mirai\DICE12~1\mod\PC_INV~1\script\REPLY_~3.LUA:8: attempt to concatenate a nil value (field 'name')
+2022-09-23 22:37:30	1	好友添加请求，来自 文书写不完了👋🏻(2665527438):\n已同意
+2022-09-23 22:39:54	1	好友添加请求，来自 Pluma开学长弧(3515922374):我是Pluma\n已同意
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+2022-09-23 22:42:37	1	好友添加请求，来自 谶邪☆颶風🎵元力上人🎵(1425606984):我是谶邪\n已同意
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+2022-09-23 22:43:45	1	好友添加请求，来自 苦瓜起司(2356057513):玉霖生\n已同意
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:49: attempt to index a nil value (local 'file')
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:35: <eof> expected near 'msg'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:7: unexpected symbol near ')'
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:14: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:8: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:52: attempt to index a nil value (local 'file')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:19: attempt to perform arithmetic on a nil value
