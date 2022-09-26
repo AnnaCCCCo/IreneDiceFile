@@ -9,11 +9,16 @@ dice开发手册：https://v2docs.kokona.tech/zh/latest/Develop_Manual.html#mod
 dice论坛：https://forum.kokona.tech/
 
 开发计划：
-接转单逻辑（制作中）
-txt手速表自动转为excel肾表（未开始）
+接转单逻辑（已完成）
+
+txt手速表自动转为excel肾表（取消，发现excel带有原生功能读取txt文件并转为表格）
+
 txt手速表自动转为excel排表（未开始）
+
 根据排表自动更新余量（未开始）
+
 定时推送余量图（未开始）
+
 html自动制作余量图（未开始）
 
 ### 9.26更新日志：
