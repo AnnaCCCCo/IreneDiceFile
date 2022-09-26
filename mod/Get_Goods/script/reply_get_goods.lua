@@ -1,12 +1,13 @@
 local text = string.sub(msg.fromMsg,#"uin")
--- local qqnumN = string.find(text,"\"uin\"")
-local qqnum = string.sub(text,string.find(text,"\"uin\"")+6,string.find(text,"}",string.find(text,"\"uin\""))-1)
--- local goods = string.find(text,"\"title\"")
+
+--local qqnum = string.sub(text,string.find(text,"\"uin\"")+6,string.find(text,"}",string.find(text,"\"uin\""))-1)
+
 local goods = string.sub(text,string.find(text,"\"title\"")+9,string.find(text,"\"",string.find(text,"\"title\"")+9)-1)
---local pic = string.sub(text,string.find(text,"&h5=")+4,string.find(text,"\"",string.find(text,"&h5=")+4)-1)
-local temp = string.sub(text,string.find(text,"\"pics\""),"-1")--,string.find(text,"?w5=",string.find(text,"qun-qungz")+10)-1)
+
+local temp = string.sub(text,string.find(text,"\"pics\""),"-1")
 local temp = string.sub(temp,string.find(temp,"qungz/")+6,"-1")
-local pic = string.sub(temp,string.find(temp,"/")+1,string.find(temp,"!!")-1)
+local temp = string.sub(temp,string.find(temp,"/")+1,"-1")
+local pic = string.sub(temp,"1",string.find(temp,"!!")-1)
 
 if string.find(pic,"*") then
     pic = string.sub(pic,"1",string.find(pic,"*")-1)
@@ -14,9 +15,9 @@ end
 
 local cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
 local cn = cnString
-if string.find(cnString,"（") then
+if (string.find(cnString,"】") and string.find(cnString,"（")) then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"（")-1)
-else if string.find(cnString,"-")then
+else if (string.find(cnString,"】") and string.find(cnString,"-"))then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"-")-1)
 else if string.find(cnString,"】")then
     cn = string.sub(cnString,string.find(cnString,"】")+3)
@@ -45,8 +46,8 @@ goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, pic)then
-    temp = string.sub(goodscode,string.find(goodscode, pic)+36)--,string.find(goodscode,"）"))
-    goodsname = string.sub(temp, "1", string.find(temp,"）")-1)
+    temp = string.sub(goodscode,string.find(goodscode, pic)+string.len(pic)+7)--,string.find(goodscode,"）"))
+    goodsname = string.sub(temp, "1", string.find(temp," 长度：")-1)
 end
 
 goodsCodeFile:close()
@@ -55,7 +56,7 @@ msg.goodsname = pic
 --return "已记入本地文档：Goods_"..goodsname..".txt"
 if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
 
-    table.insert(list,"- qq号："..qqnum)
+    table.insert(list,"- qq号："..msg.fromQQ)
     table.insert(list,"- cn："..cn)
     table.insert(list,"- 排："..goods)
 
@@ -67,10 +68,6 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
         msg.inv = table.concat(list,"\n")
         return "{reply_add_force}"
     else
-        --fileList = {}
-        --table.insert(fileList," - qq号："..qqnum)
-        --table.insert(fileList," - cn："..cn)
-        --table.insert(fileList," - 排："..goods)
 
         local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
         file:write(table.concat(list), "\n")
@@ -82,9 +79,9 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
         table.insert(personalList, {name=backpack})
         pc._Inventory = personalList
         msg.inv = table.concat(list,"\n")
+        --return goodsname
         return "{reply_add_goods}"
     end
-    --return pic
 else if(goods == "yp")then
     msg.cn = cn
     msg.goodsname = goodsname

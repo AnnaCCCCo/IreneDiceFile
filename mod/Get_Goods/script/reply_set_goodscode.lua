@@ -4,7 +4,7 @@ goodsname = string.sub(name, string.find(name,"名：")+6)
 
 local filetext
 file = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "a+")
-file:write(name, "）\n")
+file:write(name, " 长度："..string.len(goodscode).."）\n")
 file:close()
 msg.goodscode = goodscode
 msg.goodname = goodsname

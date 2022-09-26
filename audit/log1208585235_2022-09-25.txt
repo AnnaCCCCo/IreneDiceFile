@@ -1,0 +1,9 @@
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:22: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:18: attempt to sub a 'number' with a 'string'
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:18: bad argument #2 to 'format' (number expected, got string)
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:18: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:18: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:18: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:2: attempt to perform arithmetic on a nil value
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:54: <eof> expected near 'goodsCodeFile'
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:54: <eof> expected near 'goodsCodeFile'

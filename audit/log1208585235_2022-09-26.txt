@@ -1,0 +1,2 @@
+2022-09-26 11:13:38	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply8项\n注册event0项\n注册script8份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-26 11:13:38	1	已手动加载艾丽妮的配置√
