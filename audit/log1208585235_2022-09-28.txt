@@ -1,0 +1,7 @@
+	0	JRRP获取失败! 错误信息: \n服务器返回无效或不可识别的响应
+2022-09-28 14:03:13	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply8项\n注册event0项\n注册script8份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-28 14:03:13	1	读取用户记录77条 读取玩家记录44条 读取群聊记录5条 用户数据读取完毕
+2022-09-28 14:03:13	1	艾丽妮初始化完成，用时1秒
+	1	Dice! WebUI 正于端口60909运行，本地可通过浏览器访问localhost:60909\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	刷新软件包缓存失败：Failed to refresh index: Network: 操作超时
+	0	JRRP获取失败! 错误信息: \n服务器返回无效或不可识别的响应

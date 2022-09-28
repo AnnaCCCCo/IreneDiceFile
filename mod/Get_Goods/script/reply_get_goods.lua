@@ -68,7 +68,6 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
         msg.inv = table.concat(list,"\n")
         return "{reply_add_force}"
     else
-
         local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
         file:write(table.concat(list), "\n")
         file:close()
