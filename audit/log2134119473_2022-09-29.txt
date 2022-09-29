@@ -1,0 +1,8 @@
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~1.LUA:19: bad argument #1 to 'find' (string expected, got nil)
+2022-09-29 10:17:34	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply8项\n注册event0项\n注册script8份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-29 10:17:34	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~1.LUA:16: bad argument #3 to 'getGroupConf' (number expected, got string)
+2022-09-29 10:25:28	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply8项\n注册event0项\n注册script8份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-29 10:25:28	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~1.LUA:19: bad argument #1 to 'find' (string expected, got nil)
+2022-09-29 11:45:00	1	已清理过期群记录4条

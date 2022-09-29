@@ -13,8 +13,9 @@ if string.find(pic,"*") then
     pic = string.sub(pic,"1",string.find(pic,"*")-1)
 end
 
-local cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
-local cn = cnString
+cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
+--cnstring = getUserConf(msg.fromQQ,"nick#"..msg.fromGroup,"")
+--cn = cnString
 if (string.find(cnString,"】") and string.find(cnString,"（")) then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"（")-1)
 else if (string.find(cnString,"】") and string.find(cnString,"-"))then
@@ -78,7 +79,7 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
         table.insert(personalList, {name=backpack})
         pc._Inventory = personalList
         msg.inv = table.concat(list,"\n")
-        --return goodsname
+        --return cnString
         return "{reply_add_goods}"
     end
 else if(goods == "yp")then
