@@ -1,0 +1,35 @@
+2022-09-30 11:00:57	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script10份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-30 11:00:57	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\Diceki\lua\json.lua:388: expected argument of type string, got nil
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\Diceki\lua\json.lua:184: unexpected character '<' at line 2 col 1
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\Diceki\lua\json.lua:184: unexpected character '<' at line 2 col 1
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:6: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:7: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:7: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮运行lua脚本reply_get_prts失败:not enough memory
+	2	艾丽妮运行lua脚本reply_get_prts失败:not enough memory
+	2	艾丽妮运行lua脚本reply_get_prts失败:not enough memory
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:10: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:66: <eof> expected near '<\228>'
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:54: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:54: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:56: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:54: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:54: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:56: attempt to concatenate a nil value (global 'level')
+2022-09-30 16:14:05	1	群添加请求，来自：Night Bells’n Nocturne.Raythal(674037656),群:[来亿口吧（拼拼极速版）](277649597)[351/1000]\n已同意（群已许可使用）
+2022-09-30 16:14:11	2	艾丽妮新加入:[来亿口吧（拼拼极速版）](277649597)[351/1000]（已获使用许可）,邀请者Night Bells’n Nocturne.Raythal(674037656),发现黑名单管理员【团长/麦铃凹帝分】葵青池（有事小窗）(3387869951)，已退群
+2022-09-30 16:38:44	1	群添加请求，来自：Night Bells’n Nocturne.Raythal(674037656),群:[来亿口吧（拼拼极速版）](277649597)[351/1000]\n已同意（群已许可使用）
+2022-09-30 16:38:52	2	艾丽妮新加入:[来亿口吧（拼拼极速版）](277649597)[351/1000]（已获使用许可）,邀请者Night Bells’n Nocturne.Raythal(674037656),发现黑名单管理员🌌仲夏夜剧场_葵与青池🎐(3387869951)（群免黑），群主🌌仲夏夜剧场_葵与青池🎐(3387869951)；\n用户浓度20% (71/350), 信任度25.75\n可识别同系Dice!1位\n发现黑名单群员\n著名非典型鸽子.(3543819661)
+	2	艾丽妮运行lua脚本reply_get_prts失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REC7A8~1.LUA:3: attempt to perform arithmetic on a nil value
+2022-09-30 17:19:49	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply12项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-30 17:19:49	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用Draw_Cards回复返回值格式错误(table)!
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA:9: invalid escape sequence near '"https:\/'
+	2	艾丽妮运行lua脚本reply_draw_cards失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA:7: bad argument #2 to 'post' (string expected, got nil)
+	2	艾丽妮调用Draw_Cards回复返回值格式错误(table)!
+	2	艾丽妮运行lua脚本reply_draw_cards失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA:11: invalid value (table) at index 1 in table for 'concat'
+	2	艾丽妮调用Draw_Cards回复返回值格式错误(table)!
+	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\RE5B7F~1.LUA:11: malformed number near '.0.p'
+2022-09-30 19:14:18	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply12项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-09-30 19:14:18	1	已手动加载艾丽妮的配置√

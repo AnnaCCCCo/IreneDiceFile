@@ -1,0 +1,18 @@
+2022-10-01 08:30:07	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply9项\n注册event0项\n注册script8份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-01 08:30:07	1	读取用户记录77条 读取玩家记录44条 读取群聊记录5条 用户数据读取完毕
+2022-10-01 08:30:07	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口55901运行，本地可通过浏览器访问localhost:55901\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-01 08:31:39	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-01 08:31:39	1	\n读取用户记录103条\n读取玩家记录48条\n读取群聊记录7条\n用户数据读取完毕
+2022-10-01 08:31:39	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口55956运行，本地可通过浏览器访问localhost:55956\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-01 11:45:00	1	已清理过期群记录1条
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:55: bad argument #1 to 'find' (string expected, got nil)
+2022-10-01 17:31:39	1	群添加请求，来自：Night Bells’n Nocturne.Raythal(674037656),群:[](623976406)[0/0]\n已同意（受信任用户）
+2022-10-01 17:31:46	2	艾丽妮新加入:[神秘的一块钱（拼拼商家版）](623976406)[8/1000]（已获使用许可）,邀请者Night Bells’n Nocturne.Raythal(674037656),发现黑名单管理员🌌仲夏夜剧场_葵与青池🎐(3387869951)，已退群
+2022-10-01 20:21:54	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-01 20:21:54	1	已手动加载艾丽妮的配置√
+2022-10-01 22:14:14	1	好友添加请求，来自 风息时(2176452830):风息时\n已同意
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:19: bad argument #1 to 'find' (string expected, got nil)

@@ -1,6 +1,6 @@
 local text = string.sub(msg.fromMsg,#"uin")
 
---local qqnum = string.sub(text,string.find(text,"\"uin\"")+6,string.find(text,"}",string.find(text,"\"uin\""))-1)
+local qqnum = string.sub(text,string.find(text,"\"uin\"")+6,string.find(text,"}",string.find(text,"\"uin\""))-1)
 
 local goods = string.sub(text,string.find(text,"\"title\"")+9,string.find(text,"\"",string.find(text,"\"title\"")+9)-1)
 
@@ -41,7 +41,7 @@ if (msg.fromQQ == "2176452830")then
 end
 
 list = {}
-local goodsname = "[某种代码]"
+local goodsname = "[某种谷子]"
 
 goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
 goodscode = goodsCodeFile:read("*a")

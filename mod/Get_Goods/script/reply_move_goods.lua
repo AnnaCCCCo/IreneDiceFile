@@ -20,11 +20,12 @@ end
 
 goodsCodeFile:close()
 
-local cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
-local cn = cnString
-if string.find(cnString,"（") then
+cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
+--cnstring = getUserConf(msg.fromQQ,"nick#"..msg.fromGroup,"")
+--cn = cnString
+if (string.find(cnString,"】") and string.find(cnString,"（")) then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"（")-1)
-else if string.find(cnString,"-")then
+else if (string.find(cnString,"】") and string.find(cnString,"-"))then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"-")-1)
 else if string.find(cnString,"】")then
     cn = string.sub(cnString,string.find(cnString,"】")+3)

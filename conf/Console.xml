@@ -6,9 +6,12 @@
 	</clock>
 	<conf>
 		<n>Private=0</n>
-		<n>KickedBanInviter=1</n>
+		<n>KickedBanInviter=0</n>
+		<n>AllowStranger=1</n>
 		<n>BelieveDiceList=1</n>
 		<n>LeaveBlackQQ=1</n>
-		<n>BannedBanInviter=1</n>
+		<n>BannedBanInviter=0</n>
+		<n>DisableStrangerChat=0</n>
+		<n>ReferMsgReply=1</n>
 	</conf>
 </console>

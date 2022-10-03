@@ -1,0 +1,8 @@
+	0	JRRP获取失败! 错误信息: \n服务器返回无效或不可识别的响应
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:56: bad argument #1 to 'find' (string expected, got nil)
+2022-10-02 11:45:00	1	已清理过期群记录1条
+2022-10-02 14:11:05	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的6个脚本, 共23个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-02 14:11:05	1	已手动加载艾丽妮的配置√
+2022-10-02 20:31:42	1	更新外源不良记录条目1条
+2022-10-02 23:35:26	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的8个文件, 共96个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的7个脚本, 共25个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-02 23:35:26	1	已手动加载艾丽妮的配置√
