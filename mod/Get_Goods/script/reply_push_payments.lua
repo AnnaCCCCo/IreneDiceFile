@@ -7,7 +7,7 @@ qqnums = {}
 for qqnum in string.gmatch(text, "%d+") do
     table.insert(qqnums, qqnum.." ")
     eventMsg(notice_head..qqnum.." "..message, "277649597", "674037656")
-    --sleepTime(000)
+    sleepTime(5000)
 end
 return "已向"..table.concat(qqnums).."催肾"
     

@@ -1,0 +1,15 @@
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')
+2022-10-04 00:22:37	1	提醒：\n私聊窗口监测到伤心小狗(1123208301)高频发送指令达6/30s\n最近指令: .drawarknights单抽
+2022-10-04 00:24:30	2	警告：\n私聊窗口伤心小狗(1123208301)高频发送指令达23/min\n最近指令: .drawarknights十连
+2022-10-04 00:27:39	1	提醒：\n[【二期在售/三期待开】仲夏风时馆](717140097)监测到伤心小狗(1123208301)高频发送指令达23/5min\n最近指令: .draw克里斯汀贴贴
+2022-10-04 03:07:14	1	好友添加请求，来自 嘻嘻哈哈(1512404675):我是嘻嘻哈哈\n已同意
+2022-10-04 09:49:26	1	提醒：\n[【二期在售/三期待开】仲夏风时馆](717140097)监测到因 果 論。(755148875)高频发送指令达8/30s\n最近指令: [CQ:app,data={"app":"com.tencent.qzone.albumShare"\t"config":{"ctime":1664848165\t"token":"502dd60efe9efa052b3b9ff699dc8a5d"}\t"desc":""\t"extra":{"app_type":1\t"appid":1103584836\t"uin":755148875}\t"meta":{"albumData":{"albumName":"阿博你又在贴贴纸啊（这里排）"\t"commentUin":755148875\t"desc":"评论有问题别来找我【我是的影像"\t"h5Url":"mobile.qzone.qq.com/photo/group/batch?i=V52QBy8M2YHNdr1gVPQZ0azTE9361Xhz&u=717140097&p=1664205056&f=V5bCQA3MTcxNDAwOTfcwDFjg6uAAw!!&a=422&v=2&cmd=2"\t"h5UrlMobile":"h5.qzone.qq.com/groupphoto/inqq/detail/http%3A%2F%2Fmobile%2Eqzone%2Eqq%2Ecom%2Fphoto%2Fgroup%2Fbatch%3Fi%3DV52QBy8M2YHNdr1gVPQZ0azTE9361Xhz%26u%3D717140097%26p%3D1664205056%26f%3DV5bCQA3MTcxNDAwOTfcwDFjg6uAAw%21%21%26a%3D422%26v%3D2%26cmd%3D2/gro"\t"iconUrl":"qzonestyle.gtimg.cn/aoi/sola/20180606170953_0zxuk1FlFm.png"\t"pics":[{"height":200\t"isVideo":0\t"url":"qungz.photo.store.qq.com/qun-qungz/V52QBy8M2YHNdr1gVPQZ0azTE9361Xhz/V5bCQA3MTcxNDAwOTfcwDFjg6uAAw!!/800?w5=1600&h5=1600200"\t"width":200}]\t"qunid":717140097\t"reportCompass":{"actiontype":"81"\t"reserves":{"click":"2"\t"expose":"1"}\t"subactiontype":"12"\t"table":"pf00064"}\t"title":"20"\t"total":10\t"uin":2176452830}}\t"prompt":"评论了影像"\t"ver":"0.0.0.22"\t"view":"photoShare"}]
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:56: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:56: bad argument #1 to 'find' (string expected, got nil)
+2022-10-04 14:19:57	1	提醒：\n私聊窗口监测到君澈(2269288108)高频发送指令达6/30s\n最近指令: .drawarknights十连
+2022-10-04 17:37:31	1	提醒：\n[方舟海嗣窝](710392520)监测到鲸鱼(381651273)高频发送指令达14/min\n最近指令: .draw取下一本怪书
+2022-10-04 17:48:14	1	好友添加请求，来自 atidote(2993375517):抽卡uwu\n已同意
+2022-10-04 17:50:59	1	提醒：\n私聊窗口监测到霖铃（住校，有谷）(2993375517)高频发送指令达6/30s\n最近指令: .drawarknights十连
+2022-10-04 18:21:02	1	提醒：\n[方舟海嗣窝](710392520)监测到著名非典型鸽子.(3543819661)高频发送指令达13/min\n最近指令: .drawarknights十连
+2022-10-04 18:23:38	1	提醒：\n[方舟海嗣窝](710392520)监测到著名非典型鸽子.(3543819661)高频发送指令达17/min\n最近指令: .drawarknights单抽
+2022-10-04 18:44:32	1	提醒：\n[方舟海嗣窝](710392520)监测到血月之夜(3155727355)高频发送指令达10/min\n最近指令: .drawarknights十连

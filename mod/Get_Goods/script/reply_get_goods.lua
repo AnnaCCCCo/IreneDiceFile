@@ -14,6 +14,7 @@ if string.find(pic,"*") then
 end
 
 cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
+cn = ""
 --cnstring = getUserConf(msg.fromQQ,"nick#"..msg.fromGroup,"")
 --cn = cnString
 if (string.find(cnString,"】") and string.find(cnString,"（")) then
@@ -26,6 +27,10 @@ else
     cn = cnString
 end
 end
+end
+
+if cn == "" then
+    cn = getUserConf(msg.fromQQ,"name","")
 end
 
 if (msg.fromQQ == "2770269826")then
@@ -59,7 +64,7 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
 
     table.insert(list,"- qq号："..msg.fromQQ)
     table.insert(list,"- cn："..cn)
-    table.insert(list,"- 排："..goods)
+    table.insert(list,"- 排："..goodsname.."："..goods)
 
     if(string.find(goodsname,"妈位")) then
         if (string.find(goodsname,"转位")) then
@@ -69,13 +74,17 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
         msg.inv = table.concat(list,"\n")
         return "{reply_add_force}"
     else
+        filelist = {}
+        table.insert(filelist,"- "..msg.fromQQ)
+        table.insert(filelist,"- "..cn)
+        table.insert(filelist,"- "..goods)
         local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
-        file:write(table.concat(list), "\n")
+        file:write(table.concat(filelist), "\n")
         file:close()
 
         pc = getPlayerCard(msg.uid,msg.gid or 0)
         local personalList = pc._Inventory or {}
-        local backpack = goodsname.." 的 "..goods
+        local backpack = goodsname.."："..goods
         table.insert(personalList, {name=backpack})
         pc._Inventory = personalList
         msg.inv = table.concat(list,"\n")

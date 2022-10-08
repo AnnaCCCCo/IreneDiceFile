@@ -1,0 +1,29 @@
+2022-10-05 14:14:43	1	提醒：\n私聊窗口监测到嘻嘻哈哈(1512404675)高频发送指令达10/min\n最近指令: .drawarknights十连
+2022-10-05 15:25:04	1	好友添加请求，来自 古埃及掌管叠纸的神(3040524249):\n已同意
+2022-10-05 16:40:05	1	提醒：\n私聊窗口监测到伤心小狗(1123208301)高频发送指令达6/30s\n最近指令: .draw推开店门
+	2	艾丽妮运行lua脚本reply_push_payments失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:4: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_push_payments失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:4: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_push_payments失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:4: attempt to perform arithmetic on a nil value
+2022-10-05 21:01:59	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的7个脚本, 共25个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-05 21:01:59	1	\n读取用户记录275条\n读取玩家记录156条\n读取群聊记录7条\n用户数据读取完毕
+2022-10-05 21:01:59	1	艾丽妮初始化完成，用时1秒
+	1	Dice! WebUI 正于端口50258运行，本地可通过浏览器访问localhost:50258\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-05 21:04:47	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的7个脚本, 共25个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-05 21:04:47	1	\n读取用户记录275条\n读取玩家记录156条\n读取群聊记录7条\n用户数据读取完毕
+2022-10-05 21:04:47	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口50319运行，本地可通过浏览器访问localhost:50319\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-05 21:22:07	1	群添加请求，来自：Night Bells’n Nocturne.Raythal(674037656),群:[](623976406)[0/0]\n已同意（受信任用户）
+2022-10-05 21:22:14	1	艾丽妮新加入:[神秘的一块钱（拼拼商家版）](623976406)[8/1000]（已获使用许可）,邀请者Night Bells’n Nocturne.Raythal(674037656)，群主🌌仲夏夜剧场_葵与青池🎐(3387869951)；\n用户浓度100% (7/7), 信任度184070016\n可识别同系Dice!1位
+2022-10-05 21:34:20	4	| qq0 打扰了，17.0通行证今晚截肾，请记得交肾，如已交肾记得交作业，请勿直接回复此条信息
+2022-10-05 21:36:24	4	| qq0 打扰了，17.0通行证今晚截肾，请记得交肾，如已交肾记得交作业，请勿直接回复此条信息
+2022-10-05 21:49:38	1	好友添加请求，来自 咖喱乌冬警报器(1251052518):我是咖喱乌冬警报器\n已同意
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:65: attempt to concatenate a Context value (global 'cn')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:65: attempt to concatenate a Context value (global 'cn')
+	2	艾丽妮运行lua脚本reply_get_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:66: attempt to concatenate a Context value (global 'cn')
+2022-10-05 22:02:06	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的7个脚本, 共25个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-05 22:02:06	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')
