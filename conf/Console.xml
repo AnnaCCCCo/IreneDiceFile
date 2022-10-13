@@ -2,16 +2,20 @@
 	<mode>1</mode>
 	<master>674037656</master>
 	<clock>
+		<moyu_calendar>10:00</moyu_calendar>
 		<clear>11:45</clear>
 	</clock>
 	<conf>
-		<n>Private=0</n>
-		<n>KickedBanInviter=0</n>
 		<n>AllowStranger=1</n>
+		<n>DisabledGlobal=0</n>
+		<n>KickedBanInviter=0</n>
+		<n>Private=0</n>
 		<n>BelieveDiceList=1</n>
 		<n>LeaveBlackQQ=1</n>
-		<n>BannedBanInviter=0</n>
-		<n>DisableStrangerChat=0</n>
+		<n>BannedBanInviter=1</n>
+		<n>DisableStrangerChat=1</n>
 		<n>ReferMsgReply=1</n>
+		<n>DisabledSend=1</n>
+		<n>CheckGroupLicense=1</n>
 	</conf>
 </console>

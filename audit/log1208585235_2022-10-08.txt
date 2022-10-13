@@ -1,1 +1,36 @@
 2022-10-08 09:04:52	1	更新外源不良记录条目1条
+2022-10-08 10:39:33	0	遍历群列表
+2022-10-08 11:07:12	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 11:07:12	1	已手动加载艾丽妮的配置√
+2022-10-08 11:16:55	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 11:16:55	1	已手动加载艾丽妮的配置√
+2022-10-08 11:32:24	1	已重启资源管理器√\n当前内存占用：31%
+2022-10-08 11:35:51	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 11:35:51	1	\n读取用户记录334条\n读取玩家记录210条\n读取群聊记录8条\n用户数据读取完毕
+2022-10-08 11:35:51	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口49493运行，本地可通过浏览器访问localhost:49493\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-08 11:36:20	0	遍历群列表
+2022-10-08 11:36:33	0	遍历群列表
+2022-10-08 11:38:27	0	遍历群列表
+2022-10-08 11:45:43	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 11:45:43	1	\n读取用户记录334条\n读取玩家记录210条\n读取群聊记录8条\n用户数据读取完毕
+2022-10-08 11:45:43	1	艾丽妮初始化完成，用时1秒
+2022-10-08 11:45:43	1	已清理过期群记录1条
+	1	Dice! WebUI 正于端口52996运行，本地可通过浏览器访问localhost:52996\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-08 11:47:39	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 11:47:39	1	\n读取用户记录334条\n读取玩家记录210条\n读取群聊记录8条\n用户数据读取完毕
+2022-10-08 11:47:39	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口53048运行，本地可通过浏览器访问localhost:53048\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-10-08 13:57:14	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 13:57:14	1	已手动加载艾丽妮的配置√
+2022-10-08 14:07:29	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 14:07:29	1	已手动加载艾丽妮的配置√
+2022-10-08 14:10:32	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 14:10:32	1	已手动加载艾丽妮的配置√
+2022-10-08 14:21:15	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 14:21:15	1	已手动加载艾丽妮的配置√
+2022-10-08 19:23:11	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的9个文件, 共111个条目\n读取/mod/中的2个mod\n录入speech18项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-08 19:23:11	1	已手动加载艾丽妮的配置√

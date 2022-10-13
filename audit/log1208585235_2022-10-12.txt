@@ -1,0 +1,4 @@
+	128	[CQ:image,url=https://api.emoao.com/api/moyu]
+2022-10-12 11:45:00	1	已清理过期群记录1条
+2022-10-12 11:52:13	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的2个mod\n录入speech19项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-12 11:52:13	1	已手动加载艾丽妮的配置√

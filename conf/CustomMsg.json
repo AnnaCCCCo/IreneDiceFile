@@ -5,5 +5,6 @@
   "strJrrp": "{self}向{nick}比了{res}个心",
   "strRollDiceReason": "让我看看...{pc}为了{reason}掷骰，结果为: {res}",
   "strSelfName": "艾丽妮",
-  "strSendMsg": ""
+  "strSendMsg": "{self}已将消息送达√",
+  "strSummonWord": "嗯？叫我干什么？"
 }

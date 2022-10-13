@@ -60,7 +60,7 @@ goodsCodeFile:close()
 
 msg.goodsname = pic
 --return "已记入本地文档：Goods_"..goodsname..".txt"
-if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "getcode")then
+if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods ~= "getcode")then
 
     table.insert(list,"- qq号："..msg.fromQQ)
     table.insert(list,"- cn："..cn)
@@ -99,7 +99,7 @@ else if(goods == "db")then
     msg.cn = cn
     msg.goodsname = goodsname
     return "{reply_add_db}"
-else if(goods == "tt")then
+else if(goods == "tt" or goods == "t")then
     return "妈咪这边排~"
 else if(goods == "getcode")then
     return pic

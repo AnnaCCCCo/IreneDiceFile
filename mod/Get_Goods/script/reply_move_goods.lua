@@ -22,7 +22,7 @@ goodsCodeFile:close()
 
 cnString = getGroupConf(msg.fromGroup,"card#"..msg.fromQQ,"")
 --cnstring = getUserConf(msg.fromQQ,"nick#"..msg.fromGroup,"")
---cn = cnString
+cn = ""
 if (string.find(cnString,"】") and string.find(cnString,"（")) then
     cn = string.sub(cnString,string.find(cnString,"】")+3,string.find(cnString,"（")-1)
 else if (string.find(cnString,"】") and string.find(cnString,"-"))then
@@ -33,6 +33,10 @@ else
     cn = cnString
 end
 end
+end
+
+if cn == "" then
+    cn = getUserConf(msg.fromQQ,"name","")
 end
 
 if (msg.fromQQ == "2770269826")then
@@ -66,4 +70,11 @@ if string.find(goods, "接") then
         --return origin
         return "{reply_move_goods}"
     end
+else if string.find(goods, "撤") then
+    local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+    file:write("【- "..msg.fromQQ.." - cn："..cn.." "..goods.."】\n")
+    file:close()
+    msg.cn = cn
+    return "{reply_del_goods}"
+end
 end
