@@ -1,0 +1,11 @@
+	128	[CQ:image,url=https://api.emoao.com/api/moyu]
+2022-10-15 11:45:00	1	已清理过期群记录1条
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-10-15 19:45:18	1	提醒：\n[方舟海嗣窝](710392520)监测到gnosis(3401693937)高频发送指令达6/30s\n最近指令: .name
+2022-10-15 20:22:39	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的2个mod\n录入speech20项\n注册reply10项\n注册event0项\n注册script12份\n录入help词条4项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的19条自定义回复\n扩展配置读取完毕√
+2022-10-15 20:22:39	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-10-15 21:17:23	1	提醒：\n[方舟海嗣窝](710392520)监测到鲸鱼(381651273)高频发送指令达14/min\n最近指令: .draw取下一本怪书
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:2: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:2: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行lua脚本reply_set_goodscode失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~3.LUA:2: attempt to perform arithmetic on a nil value

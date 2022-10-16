@@ -10,7 +10,7 @@ if string.find(pic,"*") then
     pic = string.sub(pic,"1",string.find(pic,"*")-1)
 end
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
+goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, pic)then

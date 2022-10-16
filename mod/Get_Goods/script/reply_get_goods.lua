@@ -48,7 +48,7 @@ end
 list = {}
 local goodsname = "[某种谷子]"
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
+goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, pic)then
@@ -73,6 +73,10 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods 
         end
         msg.inv = table.concat(list,"\n")
         return "{reply_add_force}"
+    else if (string.find(goodsname,"肾表")) then
+        msg.cn = cn;
+        msg.goods = goodsname;
+        return "{reply_pay_money}"
     else
         filelist = {}
         table.insert(filelist,"- "..msg.fromQQ)
@@ -90,6 +94,7 @@ if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods 
         msg.inv = table.concat(list,"\n")
         --return cnString
         return "{reply_add_goods}"
+    end
     end
 else if(goods == "yp")then
     msg.cn = cn

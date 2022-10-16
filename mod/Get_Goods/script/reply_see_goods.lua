@@ -2,7 +2,7 @@ goodname = string.match(msg.fromMsg,"^[%s]*(.-)[%s]*$",#"看看手速排表"+1)
 
 local code = goodname
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList.txt", "r")
+goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, goodname)then
