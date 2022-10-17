@@ -1,0 +1,10 @@
+{
+    "mod":"抽捆bot",
+    "author":"李宫南",
+    "dice_build":608,
+    "brief":"抽捆用",
+    "comment":"",
+    "helpdoc":{
+        "抽捆":"使用权重抽捆"
+    }
+}

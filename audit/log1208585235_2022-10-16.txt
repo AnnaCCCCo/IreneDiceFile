@@ -1,3 +1,4 @@
 	128	[CQ:image,url=https://api.emoao.com/api/moyu]
 2022-10-16 11:45:00	1	已清理过期群记录1条
 2022-10-16 20:08:56	1	群添加请求，来自：没事别找(1652485816),群:[](536980940)[0/0]已同意
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')

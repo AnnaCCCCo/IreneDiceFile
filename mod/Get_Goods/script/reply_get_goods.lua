@@ -60,54 +60,56 @@ goodsCodeFile:close()
 
 msg.goodsname = pic
 --return "已记入本地文档：Goods_"..goodsname..".txt"
-if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods ~= "getcode")then
+if goodsname ~= "忽略" then
+    if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods ~= "getcode")then
 
-    table.insert(list,"- qq号："..msg.fromQQ)
-    table.insert(list,"- cn："..cn)
-    table.insert(list,"- 排："..goodsname.."："..goods)
+        table.insert(list,"- qq号："..msg.fromQQ)
+        table.insert(list,"- cn："..cn)
+        table.insert(list,"- 排："..goodsname.."："..goods)
 
-    if(string.find(goodsname,"妈位")) then
-        if (string.find(goodsname,"转位")) then
-            msg.inv = goods;
-            return "{reply_move_force}"
+        if(string.find(goodsname,"妈位")) then
+            if (string.find(goodsname,"转位")) then
+                msg.inv = goods;
+                return "{reply_move_force}"
+            end
+            msg.inv = table.concat(list,"\n")
+            return "{reply_add_force}"
+        else if (string.find(goodsname,"肾表")) then
+            msg.cn = cn;
+            msg.goods = goodsname;
+            return "{reply_pay_money}"
+        else
+            filelist = {}
+            table.insert(filelist,"- "..msg.fromQQ)
+            table.insert(filelist,"- "..cn)
+            table.insert(filelist,"- "..goods)
+            local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+            file:write(table.concat(filelist), "\n")
+            file:close()
+
+            pc = getPlayerCard(msg.uid,msg.gid or 0)
+            local personalList = pc._Inventory or {}
+            local backpack = goodsname.."："..goods
+            table.insert(personalList, {name=backpack})
+            pc._Inventory = personalList
+            msg.inv = table.concat(list,"\n")
+            --return cnString
+            return "{reply_add_goods}"
         end
-        msg.inv = table.concat(list,"\n")
-        return "{reply_add_force}"
-    else if (string.find(goodsname,"肾表")) then
-        msg.cn = cn;
-        msg.goods = goodsname;
-        return "{reply_pay_money}"
-    else
-        filelist = {}
-        table.insert(filelist,"- "..msg.fromQQ)
-        table.insert(filelist,"- "..cn)
-        table.insert(filelist,"- "..goods)
-        local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
-        file:write(table.concat(filelist), "\n")
-        file:close()
-
-        pc = getPlayerCard(msg.uid,msg.gid or 0)
-        local personalList = pc._Inventory or {}
-        local backpack = goodsname.."："..goods
-        table.insert(personalList, {name=backpack})
-        pc._Inventory = personalList
-        msg.inv = table.concat(list,"\n")
-        --return cnString
-        return "{reply_add_goods}"
-    end
-    end
-else if(goods == "yp")then
-    msg.cn = cn
-    msg.goodsname = goodsname
-    return "{reply_add_yp}"
-else if(goods == "db")then
-    msg.cn = cn
-    msg.goodsname = goodsname
-    return "{reply_add_db}"
-else if(goods == "tt" or goods == "t")then
-    return "妈咪这边排~"
-else if(goods == "getcode")then
-    return pic
+        end
+    else if(goods == "yp")then
+        msg.cn = cn
+        msg.goodsname = goodsname
+        return "{reply_add_yp}"
+    else if(goods == "db")then
+        msg.cn = cn
+        msg.goodsname = goodsname
+        return "{reply_add_db}"
+    else if(goods == "tt" or goods == "t")then
+        return "妈咪这边排~"
+    else if(goods == "getcode")then
+        return pic
+end
 end
 end
 end
