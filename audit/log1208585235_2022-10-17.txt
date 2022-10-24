@@ -5,3 +5,4 @@
 	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:63: unexpected symbol near '!'
 	2	艾丽妮读取lua文件D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~1.LUA:63: unexpected symbol near '!'
 	2	艾丽妮运行lua脚本reply_draw_bundle失败:D:\Personal\Mirai\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:23: bad 'for' limit (number expected, got nil)
+2022-10-17 11:45:00	1	已清理过期群记录2条
