@@ -6,16 +6,18 @@
 		<clear>11:45</clear>
 	</clock>
 	<conf>
-		<n>AllowStranger=1</n>
+		<n>Private=0</n>
 		<n>DisabledGlobal=0</n>
 		<n>KickedBanInviter=0</n>
-		<n>Private=0</n>
+		<n>AllowStranger=1</n>
 		<n>BelieveDiceList=1</n>
 		<n>LeaveBlackQQ=1</n>
 		<n>BannedBanInviter=1</n>
 		<n>DisableStrangerChat=1</n>
 		<n>ReferMsgReply=1</n>
+		<n>InactiveGroupLine=30</n>
 		<n>DisabledSend=1</n>
 		<n>CheckGroupLicense=1</n>
+		<n>InactiveUserLine=30</n>
 	</conf>
 </console>

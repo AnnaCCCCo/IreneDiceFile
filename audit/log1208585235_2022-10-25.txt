@@ -1,0 +1,7 @@
+	128	[CQ:image,url=https://api.emoao.com/api/moyu]
+2022-10-25 11:45:00	1	已清理无效或过期用户记录15条
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_see_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:17: attempt to index a nil value (global 'file')
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)

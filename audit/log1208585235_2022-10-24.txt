@@ -1,3 +1,15 @@
 2022-10-24 02:28:47	2	好友添加请求，来自 gnosis(3401693937):我是gnosis\n已拒绝（用户在黑名单中）
 	128	[CQ:image,url=https://api.emoao.com/api/moyu]
 	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-10-24 10:29:08	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的3个mod\n录入speech21项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的20条自定义回复\n扩展配置读取完毕√
+2022-10-24 10:29:08	1	已手动加载艾丽妮的配置√
+2022-10-24 10:37:29	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的20条自定义回复\n扩展配置读取完毕√
+2022-10-24 10:37:29	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行lua脚本reply_upload_pics失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:14: bad argument #1 to 'len' (string expected, got nil)
+2022-10-24 11:46:43	1	\n读取D:\Personal\Mirai\Dice1208585235\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的20条自定义回复\n扩展配置读取完毕√
+2022-10-24 11:46:43	1	\n读取用户记录533条\n读取玩家记录372条\n读取群聊记录11条\n用户数据读取完毕
+2022-10-24 11:46:43	1	艾丽妮初始化完成，用时0秒
+	1	Dice! WebUI 正于端口62152运行，本地可通过浏览器访问localhost:62152\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-10-24 23:46:45	1	更新外源不良记录条目2条

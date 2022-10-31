@@ -60,7 +60,7 @@ goodsCodeFile:close()
 
 msg.goodsname = pic
 --return "已记入本地文档：Goods_"..goodsname..".txt"
-if goodsname ~= "忽略" then
+if goodsname ~= "[某种谷子]" then
     if(goods ~= "yp" and goods ~= "db" and goods ~= "tt" and goods ~= "t" and goods ~= "getcode")then
 
         table.insert(list,"- qq号："..msg.fromQQ)

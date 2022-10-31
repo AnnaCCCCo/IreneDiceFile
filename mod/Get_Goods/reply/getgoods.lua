@@ -52,20 +52,11 @@ msg_reply.Search_Prts = {	--该条msg_reply的id，唯一对应，同名覆盖
     }
 }
 
---msg_reply.Draw_Cards = {	--该条msg_reply的id，唯一对应，同名覆盖
---    keyword = {
---        Match = "查询抽卡记录",
---    },
---    echo = {
---        lua = "reply_draw_cards"	--调用文件名对应lua
---    }
---}
---
---msg_reply.Set_Token = {	--该条msg_reply的id，唯一对应，同名覆盖
---    keyword = {
---        Prefix = "设置token",
---    },
---    echo = {
---        lua = "reply_set_token"	--调用文件名对应lua
---    }
---}
+msg_reply.Upload_Pics = {	--该条msg_reply的id，唯一对应，同名覆盖
+    keyword = {
+        Search = "新增1个影像",
+    },
+    echo = {
+        lua = "reply_upload_pics"	--调用文件名对应lua
+    }
+}

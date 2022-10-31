@@ -9,3 +9,4 @@ reply_move_goods: "{cn}接了{origin}有关{goodsname}的转单，请管理打�
 reply_get_move_force: "{cn}接了转的位~"
 reply_del_goods: "{cn}撤了一些谷，请管理打表注意~"
 reply_pay_money: "{cn}交了{goods}的肾"
+reply_upload_pics: "感觉要开新谷了，请记得设置代码~\n设置可以直接复制：\n设置谷子名称 {goodscode} 名：[谷名]"

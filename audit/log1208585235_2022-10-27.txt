@@ -1,0 +1,7 @@
+	128	[CQ:image,url=https://api.emoao.com/api/moyu]
+2022-10-27 11:45:00	1	已清理无效或过期用户记录3条
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-10-27 18:35:09	1	提醒：\n[罗德岛人事部（进团改备注，相册有团规）](654464841)监测到西嘎(3184298669)高频发送指令达6/30s\n最近指令: .name
