@@ -1,0 +1,22 @@
+2022-11-04 14:22:42	1	晚钟夜曲初始化完成，用时0秒
+	1	Dice! WebUI 正于端口57026运行，本地可通过浏览器访问localhost:57026\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-11-04 14:24:23	1	\n读取/mod/中的1个mod\n录入speech12项\n注册reply7项\n注册event0项\n注册script9份\n录入help词条1项\n扩展配置读取完毕√
+2022-11-04 14:24:23	1	已手动加载晚钟夜曲的配置√
+2022-11-04 14:26:02	1	群添加请求，来自：Night Bells’n Nocturne.(674037656),群:[](654464841)[0/0]\n已同意（受信任用户）
+2022-11-04 14:26:08	1	晚钟夜曲新加入:[罗德岛人事部（进团改备注，相册有团规）](654464841)[257/1000]（已获使用许可）,邀请者Night Bells’n Nocturne.(674037656)，群主没事别找(1652485816)；\n用户浓度0% (1/256), 信任度24.69\n可识别同系Dice!1位
+2022-11-04 14:36:51	1	\n读取/mod/中的2个mod\n录入speech21项\n注册reply11项\n注册event0项\n注册script13份\n录入help词条4项\n扩展配置读取完毕√
+2022-11-04 14:36:51	1	已手动加载晚钟夜曲的配置√
+2022-11-04 14:37:57	1	\n读取/mod/中的2个mod\n录入speech21项\n注册reply11项\n注册event0项\n注册script13份\n录入help词条4项\n扩展配置读取完毕√
+2022-11-04 14:37:57	1	已手动加载晚钟夜曲的配置√
+2022-11-04 14:39:57	1	\n读取/mod/中的2个mod\n录入speech21项\n注册reply11项\n注册event0项\n注册script13份\n录入help词条4项\n扩展配置读取完毕√
+2022-11-04 14:39:57	1	已手动加载晚钟夜曲的配置√
+	2	晚钟夜曲读取lua文件D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~2.LUA:92: syntax error near '..'
+	2	晚钟夜曲运行lua脚本reply_inventory_show失败:D:\Personal\Mirai\DICE21~1\mod\PC_INV~1\script\REPLY_~4.LUA:13: bad argument #1 to 'insert' (table expected, got string)
+	2	晚钟夜曲运行lua脚本reply_inventory_add失败:D:\Personal\Mirai\DICE21~1\mod\PC_INV~1\script\REPLY_~1.LUA:27: invalid value (userdata) at index 4 in table for 'concat'
+	2	晚钟夜曲运行lua脚本reply_inventory_add失败:D:\Personal\Mirai\DICE21~1\mod\PC_INV~1\script\REPLY_~1.LUA:28: invalid value (userdata) at index 5 in table for 'concat'
+2022-11-04 15:06:16	1	\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n扩展配置读取完毕√
+2022-11-04 15:06:16	1	\n读取用户记录633条\n读取玩家记录485条\n读取群聊记录11条\n用户数据读取完毕
+2022-11-04 15:06:16	1	晚钟夜曲初始化完成，用时0秒
+	1	Dice! WebUI 正于端口60735运行，本地可通过浏览器访问localhost:60735\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级

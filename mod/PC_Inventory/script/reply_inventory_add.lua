@@ -17,4 +17,9 @@ for i,item in ipairs(list) do
 end
 msg.item = name
 msg.inv = table.concat(fmt,"\n")
+
+local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\Personal\\"..msg.fromQQ..".txt", "a+")
+file:write(" - "..name, "\n")
+file:close()
+
 return "{reply_inventory_add}"

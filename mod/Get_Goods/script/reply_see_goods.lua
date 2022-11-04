@@ -2,7 +2,7 @@ goodname = string.match(msg.fromMsg,"^[%s]*(.-)[%s]*$",#"看看手速排表"+1)
 
 local code = goodname
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
+goodsCodeFile = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, goodname)then
@@ -13,7 +13,7 @@ if string.find(goodscode, goodname)then
     goodsCodeFile:close()
 
     local filetext
-    file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..code..".txt", "r")
+    file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..code..".txt", "r")
     filetext = file:read("*a")
     msg.goods = goodname
     msg.inv = filetext

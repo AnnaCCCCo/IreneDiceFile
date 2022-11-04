@@ -48,7 +48,7 @@ end
 list = {}
 local goodsname = "[某种谷子]"
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
+goodsCodeFile = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, pic)then
@@ -83,17 +83,22 @@ if goodsname ~= "[某种谷子]" then
             table.insert(filelist,"- "..msg.fromQQ)
             table.insert(filelist,"- "..cn)
             table.insert(filelist,"- "..goods)
-            local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+            local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
             file:write(table.concat(filelist), "\n")
             file:close()
 
+            local backpack = " - 群："..msg.fromGroup.."，谷："..goodsname.."："..goods
+            
+            local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\Personal\\"..msg.fromQQ..".txt", "a+")
+            file:write(backpack, "\n")
+            file:close()
+            
+            msg.inv = table.concat(list,"\n")
+            
             pc = getPlayerCard(msg.uid,msg.gid or 0)
             local personalList = pc._Inventory or {}
-            local backpack = goodsname.."："..goods
             table.insert(personalList, {name=backpack})
             pc._Inventory = personalList
-            msg.inv = table.concat(list,"\n")
-            --return cnString
             return "{reply_add_goods}"
         end
         end

@@ -10,7 +10,7 @@ if string.find(pic,"*") then
     pic = string.sub(pic,"1",string.find(pic,"*")-1)
 end
 
-goodsCodeFile = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
+goodsCodeFile = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "r")
 goodscode = goodsCodeFile:read("*a")
 
 if string.find(goodscode, pic)then
@@ -61,7 +61,7 @@ if string.find(goods, "接") then
         msg.cn = cn
         return "{reply_get_move_force}"
     else
-        local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+        local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
         file:write("【"..msg.fromQQ.."，cn："..cn.."，接了"..origin.."的转单】\n")
         file:close()
 
@@ -71,7 +71,7 @@ if string.find(goods, "接") then
         return "{reply_move_goods}"
     end
 else if string.find(goods, "撤") then
-    local file = io.open("Dice1208585235\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
+    local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..pic..".txt", "a+")
     file:write("【- "..msg.fromQQ.." - cn："..cn.." "..goods.."】\n")
     file:close()
     msg.cn = cn
