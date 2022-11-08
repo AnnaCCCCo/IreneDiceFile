@@ -1,0 +1,12 @@
+2022-11-08 11:51:35	1	\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n扩展配置读取完毕√
+2022-11-08 11:51:35	1	\n读取用户记录460条\n读取玩家记录362条\n读取群聊记录10条\n用户数据读取完毕
+2022-11-08 11:51:35	1	晚钟夜曲初始化完成，用时0秒
+	1	Dice! WebUI 正于端口50405运行，本地可通过浏览器访问localhost:50405\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-11-08 11:53:43	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的20条自定义回复\n扩展配置读取完毕√
+2022-11-08 11:53:43	1	已手动加载晚钟夜曲的配置√
+2022-11-08 11:54:35	1	\n读取D:\Personal\Mirai\Dice2134119473\PublicDeck中的10个文件, 共289个条目\n读取/mod/中的3个mod\n录入speech22项\n注册reply12项\n注册event0项\n注册script14份\n录入help词条5项\n读取/plugin/中的8个脚本, 共29个指令\n读取/conf/CustomMsgReply.json中的20条自定义回复\n扩展配置读取完毕√
+2022-11-08 11:54:35	1	\n读取用户记录634条\n读取玩家记录485条\n读取群聊记录14条\n用户数据读取完毕
+2022-11-08 11:54:35	1	艾丽妮初始化完成，用时1秒
+	1	Dice! WebUI 正于端口50612运行，本地可通过浏览器访问localhost:50612\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
