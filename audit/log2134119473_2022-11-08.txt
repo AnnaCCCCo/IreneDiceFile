@@ -10,3 +10,8 @@
 2022-11-08 11:54:35	1	艾丽妮初始化完成，用时1秒
 	1	Dice! WebUI 正于端口50612运行，本地可通过浏览器访问localhost:50612\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
 	1	已成功刷新软件包缓存，37个拓展可用，0个可升级
+2022-11-08 12:15:02	1	好友添加请求，来自 コリ(1969116078):我是kori\n已同意
+2022-11-08 12:40:33	1	好友添加请求，来自 Seiwa(1633494135):我是Seiwa\n已同意
+2022-11-08 14:59:51	1	好友添加请求，来自 Azur(706363432):我是Azur\n已同意
+	2	艾丽妮运行lua脚本reply_move_goods失败:D:\Personal\Mirai\DICE21~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-11-08 23:54:37	1	更新外源不良记录条目1条

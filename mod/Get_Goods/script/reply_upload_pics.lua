@@ -9,10 +9,10 @@ if string.find(pic,"*") then
     pic = string.sub(pic,"1",string.find(pic,"*")-1)
 end
 
--- local filetext
--- file = io.open("Dice1208585235\\Lists\\AAAGoodsCodeList"..msg.fromGroup..".txt", "a+")
--- file:write(pic.." 名：忽略".." 长度："..string.len(pic).."）\n")
--- file:close()
 msg.goodscode = pic
+
+local temp = string.sub(text,string.find(text,"\"meta\"")+7,"-1")
+local discribe = string.sub(temp,string.find(temp,"\"desc\"")+8,string.find(temp,"\"h5Url\"")-3)
+msg.discribe = discribe
 
 return "{reply_upload_pics}"

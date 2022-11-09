@@ -1,0 +1,12 @@
+master: 674037656
+config:
+  private: 0
+  BelieveDiceList: 1
+  LeaveBlackQQ: 1
+  BannedBanInviter: 1
+  KickedBanInviter: 1
+  AllowStranger: 2
+  CheckGroupLicense: 1
+clock:
+  - moment: 11:45
+    task: clear
