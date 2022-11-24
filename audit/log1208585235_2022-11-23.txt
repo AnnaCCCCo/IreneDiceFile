@@ -1,0 +1,3 @@
+2022-11-23 09:31:57	1	艾丽妮\n注册speech30项\n注册help12项\n注册reply74项\n注册script14份\n模块加载完毕√
+2022-11-23 09:31:57	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-23 09:31:57	1	已手动加载艾丽妮的配置√

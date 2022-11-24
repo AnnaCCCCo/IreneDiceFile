@@ -98,7 +98,7 @@ if goodsname ~= "[某种谷子]" then
                 file:write(table.concat(filelist), "\n")
                 file:close()
 
-                local backpack = " - 群：" .. msg.fromGroup .. "，谷：" .. goodsname .. "：" .. goods
+                local backpack = "群：" .. msg.fromGroup .. "，谷：" .. goodsname .. "：" .. goods
 
                 local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\Personal\\" .. msg.fromQQ .. ".txt",
                     "a+")

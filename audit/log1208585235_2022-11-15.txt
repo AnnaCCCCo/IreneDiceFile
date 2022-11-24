@@ -1,0 +1,12 @@
+2022-11-15 11:19:15	1	艾丽妮\n注册speech30项\n注册help11项\n注册reply60项\n注册script14份\n模块加载完毕√
+2022-11-15 11:19:15	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的6条帮助词条\n读取/plugin/中的9个脚本, 共30条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-15 11:19:15	1	已手动加载艾丽妮的配置√
+2022-11-15 14:45:55	1	艾丽妮\n注册speech30项\n注册help12项\n注册reply65项\n注册script14份\n模块加载完毕√
+2022-11-15 14:45:55	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的11个脚本, 共35条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-15 14:45:55	1	已手动加载艾丽妮的配置√
+2022-11-15 15:01:12	1	艾丽妮\n注册speech30项\n注册help12项\n注册reply74项\n注册script14份\n模块加载完毕√
+2022-11-15 15:01:12	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-15 15:01:12	1	已手动加载艾丽妮的配置√
+2022-11-15 16:47:33	1	艾丽妮\n注册speech30项\n注册help12项\n注册reply74项\n注册script14份\n模块加载完毕√
+2022-11-15 16:47:33	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-15 16:47:33	1	已手动加载艾丽妮的配置√
