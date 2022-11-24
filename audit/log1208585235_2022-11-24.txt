@@ -1,1 +1,20 @@
 2022-11-24 03:23:38	1	更新外源不良记录条目47条
+2022-11-24 17:35:13	4	| [群:667546784]李宫南2号(429146733):qq674037656 我来催肾啦
+2022-11-24 17:35:52	4	| [群:667546784]李宫南2号(429146733):qq1781725619 我来催肾啦
+2022-11-24 17:36:51	4	| [群:667546784]LeeGonggou(1781725619):qq1487123414 我来催肾啦
+2022-11-24 17:37:28	4	| [群:667546784]nirvana(1487123414):qq1781725619 我来催肾啦
+2022-11-24 17:41:33	4	| [群:667546784]李宫南2号(429146733):qq674037656 我来催肾啦[CQ:image,file={C76885D8-4D0C-9EA9-3D2B-79F095BFDBD7}.jpg.mnimg]
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:4: attempt to perform arithmetic on a nil value
+2022-11-24 17:57:11	1	艾丽妮\n注册speech30项\n注册help12项\n注册reply74项\n注册script14份\n模块加载完毕√
+2022-11-24 17:57:11	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-24 17:57:11	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:4: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: bad argument #3 to 'find' (number expected, got string)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: bad argument #3 to 'find' (number expected, got string)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: bad argument #3 to 'find' (number expected, got string)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: malformed pattern (missing ']')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:9: bad argument #3 to 'sub' (number expected, got string)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
