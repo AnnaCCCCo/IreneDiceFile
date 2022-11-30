@@ -1,0 +1,6 @@
+2022-11-29 10:24:17	1	艾丽妮\n注册speech 30 项\n注册help 12 项\n注册reply 74 项\n注册script 14 份\n模块加载完毕√
+2022-11-29 10:24:17	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的3枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-29 10:24:18	1	\n读取用户记录791条\n读取玩家记录547条\n读取群聊记录17条\n用户数据读取完毕
+2022-11-29 10:24:18	1	艾丽妮初始化完成，用时749毫秒
+	1	Dice! WebUI 正于端口59661运行，本地可通过浏览器访问http://localhost:59661\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
