@@ -1,6 +1,5 @@
---pc = getPlayerCard(msg.uid,msg.gid or 0)
---raw_str = msg.fromMsg
-raw_str = string.match(msg.fromMsg,"^[%s]*(.-)[%s]*$",#"抽捆"+1)
+raw_str = string.match(msg.fromMsg,"^[%s]*(.-)[%s]*$",#"&抽选"+1)
+
 local split_str_list = {}
 local split_char = '，'
 string.gsub(raw_str,'[^'..split_char..']+',function ( w )
@@ -10,7 +9,19 @@ end)
 local name_weight_tab = {}
 weight_collection = {}
 
-for i = 1, #split_str_list do
+local total_select_num = 0
+
+local info_str = split_str_list[1]
+local split_info_list = {}
+local split_info_char = '+'
+string.gsub(info_str,'[^'..split_info_char..']+',function ( w )
+    table.insert(split_info_list,w)
+end)
+
+local draw_info = split_info_list[1]
+local draw_num = tonumber(split_info_list[2])
+
+for i = 2, #split_str_list do
     local name_weight_list = {}
     local name_weight_split_char = ' '
     string.gsub(split_str_list[i],'[^'..name_weight_split_char..']+',function ( w )
@@ -23,26 +34,31 @@ for i = 1, #split_str_list do
     end
 end
 
-local total_num = 0
+local res_num_tab = {}
+local res_name_tab = {}
 
-for name, weight_num in pairs(name_weight_tab) do      
-    total_num = weight_num + total_num
-end 
+local cur_remaining_draw_num = draw_num
+while( cur_remaining_draw_num > 0 )
+do
+    -- 直接用weight_collection的长度来进行总数计算
+    local total_num = #weight_collection
+   
+    local random_num = ranint(1,total_num)
 
-local random_num = ranint(1,total_num)
--- local res_name = ""
--- 
--- local normalize_total_val = 0.0
--- for name, weight_num in pairs(name_weight_tab) do      
---     normalize_total_val = weight_num/total_num + normalize_total_val
---     if (normalize_total_val > random_num)
---     then
---         res_name = name
---         break
---     end
--- end 
--- 
-msg.random_num = random_num
-msg.res_name = weight_collection[random_num]
+    table.insert(res_num_tab, random_num)
+    table.insert(res_name_tab, weight_collection[random_num])
+
+    -- 删除权重表里的对应项目
+    table.remove(weight_collection, random_num)
+
+
+    cur_remaining_draw_num = cur_remaining_draw_num - 1
+end
+
+
+msg.draw_info = draw_info
+msg.draw_num = draw_num
+msg.random_num = res_num_tab
+msg.res_name = res_name_tab
 
 return "{reply_draw_res}"

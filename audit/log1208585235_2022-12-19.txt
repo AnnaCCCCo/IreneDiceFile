@@ -1,0 +1,12 @@
+	0	Today:2022-12-18->2022-12-19
+2022-12-19 10:15:09	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 81 项\n注册script 17 份\n模块加载完毕√
+2022-12-19 10:15:09	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的5枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-12-19 10:15:09	1	\n读取用户记录957条\n读取玩家记录689条\n读取群聊记录20条\n用户数据读取完毕
+2022-12-19 10:15:09	1	艾丽妮初始化完成，用时776毫秒
+	1	Dice! WebUI 正于端口49390运行，本地可通过浏览器访问http://localhost:49390\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	0	近似匹配设置昵称:设置群内称呼：.nn [昵称] / .nn / .nnn(cn/jp/en) \n.nn kp\t//昵称前的./！等符号会被自动忽略\n.nn del\t//删除当前窗口称呼\n.nn clr\t//删除所有记录的称呼\n.nnn\t//从随机姓名牌堆设置随机称呼\n.nnn jp\t/从指定子牌堆随机昵称\n私聊.nn视为操作全局称呼\n该称呼用于\{nick}的显示，优先级：群内称呼>全局称呼>群名片>QQ昵称\n无角色卡或未命名时也用于显示\{pc}
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)

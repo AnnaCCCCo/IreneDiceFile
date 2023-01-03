@@ -1,0 +1,33 @@
+	0	Today:2022-11-29->2022-11-30
+2022-11-30 10:36:44	1	艾丽妮\n注册speech 42 项\n注册help 15 项\n注册reply 74 项\n注册script 15 份\n模块加载完毕√
+2022-11-30 10:36:44	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 10:36:44	1	已手动加载艾丽妮的配置√
+2022-11-30 11:18:30	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 75 项\n注册script 16 份\n模块加载完毕√
+2022-11-30 11:18:30	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 11:18:30	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用New_AuctionLua代码失败!\n[string "reply_new_auction"]:1: syntax error near <eof>
+	2	艾丽妮调用New_AuctionLua代码失败!\n[string "reply_new_auction"]:1: syntax error near <eof>
+	2	艾丽妮调用New_AuctionLua代码失败!\n[string "reply_new_auction"]:1: syntax error near <eof>
+	2	艾丽妮调用New_AuctionLua代码失败!\n[string "reply_new_auction"]:1: syntax error near <eof>
+2022-11-30 11:25:05	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 75 项\n注册script 16 份\n模块加载完毕√
+2022-11-30 11:25:05	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 11:25:05	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA:1: attempt to get length of a nil value (global 'order_name')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA:4: attempt to index a nil value (local 'file')
+2022-11-30 12:25:04	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 75 项\n注册script 16 份\n模块加载完毕√
+2022-11-30 12:25:04	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 12:25:04	1	已手动加载艾丽妮的配置√
+2022-11-30 13:14:26	1	艾丽妮\n注册speech 19 项\n注册help 14 项\n注册reply 69 项\n注册script 7 份\n模块加载完毕√
+2022-11-30 13:14:35	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 75 项\n注册script 16 份\n模块加载完毕√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-11-30 13:20:23	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 75 项\n注册script 16 份\n模块加载完毕√
+2022-11-30 13:20:23	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 13:20:23	1	已手动加载艾丽妮的配置√
+2022-11-30 13:21:38	1	艾丽妮\n注册speech 31 项\n注册help 15 项\n注册reply 76 项\n注册script 16 份\n模块加载完毕√
+2022-11-30 13:21:38	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的4枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-11-30 13:21:38	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA:14: attempt to add a 'string' with a 'number'
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA:20: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA:23: attempt to index a nil value (local 'file')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~1.LUA:4: bad argument #2 to 'sub' (number expected, got string)
+2022-11-30 22:24:20	1	更新外源不良记录条目1条

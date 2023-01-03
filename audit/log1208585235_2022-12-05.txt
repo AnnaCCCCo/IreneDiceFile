@@ -1,0 +1,18 @@
+	0	Today:2022-12-04->2022-12-05
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)
+2022-12-05 14:36:04	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 81 项\n注册script 17 份\n模块加载完毕√
+2022-12-05 14:36:04	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的5枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-12-05 14:36:04	1	已手动加载艾丽妮的配置√
+2022-12-05 15:07:42	1	好友添加请求，来自 龙门高材生陈晖洁(3335230848):呀\n已同意
+2022-12-05 15:10:35	1	好友添加请求，来自 血月之夜(3155727355):\n已同意
+2022-12-05 15:23:29	1	收到血月之夜(3155727355)的入群邀请:[](775297504)[0/0]已同意
+2022-12-05 15:23:38	1	艾丽妮新加入:[各位加油](775297504)[5/1000],邀请者血月之夜(3155727355)，群主浊(2545269244)；\n用户浓度25% (1/4), 信任度0
+2022-12-05 16:01:34	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 81 项\n注册script 17 份\n模块加载完毕√
+2022-12-05 16:01:34	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的5枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2022-12-05 16:01:34	1	已手动加载艾丽妮的配置√
+	2	艾丽妮加载D:\Personal\MIRAI_~1\DICE12~1\mod\AImage\script\nai\draw.lua失败:...ersonal\MIRAI_~1\DICE12~1\mod\AImage\script\nai\draw.lua:23: '}' expected (to close '{' at line 14) near 'batch_size'
+	2	艾丽妮加载D:\Personal\MIRAI_~1\DICE12~1\mod\AImage\script\nai\draw.lua失败:...ersonal\MIRAI_~1\DICE12~1\mod\AImage\script\nai\draw.lua:24: '}' expected (to close '{' at line 15) near 'batch_size'
+	0	艾丽妮访问服务器时出现错误! HTTP状态码: 502
+	0	艾丽妮访问服务器时出现错误! HTTP状态码: 502
+2022-12-05 22:24:28	1	更新外源不良记录条目1条

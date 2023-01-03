@@ -1,0 +1,2 @@
+	0	Today:2022-12-10->2022-12-11
+	2	°¬ÀöÄÝÔËÐÐD:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUAÊ§°Ü:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:60: bad argument #1 to 'find' (string expected, got nil)

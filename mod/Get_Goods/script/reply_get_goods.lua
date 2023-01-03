@@ -96,7 +96,6 @@ if goodsname ~= "[某种谷子]" then
                     "C:\\Users\\Administrator\\OneDrive\\Lists\\" .. msg.fromGroup .. "\\Goods_Group" .. msg.fromGroup ..
                         "_" .. pic .. ".txt", "a+")
                 file:write(table.concat(filelist), "\n")
-                file:close()
 
                 local backpack = "群：" .. msg.fromGroup .. "，谷：" .. goodsname .. "：" .. goods
 

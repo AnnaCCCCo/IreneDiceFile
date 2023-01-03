@@ -1,6 +1,6 @@
 msg_reply.reply_draw_res = {
     keyword = {
-        prefix = {"抽捆"}
+        prefix = {"&抽选"}
     },
     limit = {
         cd = {

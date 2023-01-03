@@ -23,3 +23,4 @@ for qqnum in string.gmatch(atPplGroup, "%d+") do
 end
 
 return "已向"..table.concat(qqnums).."催肾"
+

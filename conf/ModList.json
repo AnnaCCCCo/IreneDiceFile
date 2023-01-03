@@ -1,1 +1,30 @@
-[{"active":true,"name":"PC_Inventory"},{"active":true,"name":"Get_Goods"},{"active":true,"name":"Draw_Bundle"}]
+[
+{
+"name": "PC_Inventory",
+"active": true
+},
+{
+"name": "Get_Goods",
+"active": true
+},
+{
+"name": "Draw_Bundle",
+"active": true
+},
+{
+"name": "Auction",
+"active": true
+},
+{
+"name": "AImage",
+"active": true
+},
+{
+"name": "AImage",
+"active": true
+},
+{
+"name": "ChatBot",
+"active": true
+}
+]

@@ -1,0 +1,10 @@
+{
+    "mod":"ChatBot",
+    "author":"晚钟",
+    "dice_build":607,
+    "brief":"部署ChatGPT",
+    "comment":"",
+    "helpdoc":{
+        "Chat":"ChatGPT聊天"
+    }
+}
