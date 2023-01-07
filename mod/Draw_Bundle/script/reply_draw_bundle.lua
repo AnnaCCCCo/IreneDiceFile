@@ -55,10 +55,19 @@ do
     cur_remaining_draw_num = cur_remaining_draw_num - 1
 end
 
+local res_name_count = {}
+for i = 1, #res_name_tab do
+    if res_name_count[res_name_tab[i]] == nil then
+        res_name_count[res_name_tab[i]] = 1
+    else
+        res_name_count[res_name_tab[i]] = res_name_count[res_name_tab[i]] + 1
+    end
+end
 
 msg.draw_info = draw_info
 msg.draw_num = draw_num
 msg.random_num = res_num_tab
 msg.res_name = res_name_tab
+msg.name_count = res_name_count
 
 return "{reply_draw_res}"

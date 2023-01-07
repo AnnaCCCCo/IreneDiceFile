@@ -1,9 +1,9 @@
 {
  "log": {
-  "start": 0,
-  "lastMsg": 0,
-  "name": "漩涡【一】",
-  "file": "g698548018_漩涡【一】.txt",
+  "start": 1673074002,
+  "lastMsg": 1672729210,
+  "name": "漩涡【二】",
+  "file": "g698548018_漩涡【二】.txt",
   "logging": false
  },
  "chats": [
@@ -12,5 +12,5 @@
   }
  ],
  "create_time": 1672226947,
- "update_time": 1672588346
+ "update_time": 1673082546
 }
