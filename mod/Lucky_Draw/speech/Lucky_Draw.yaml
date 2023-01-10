@@ -1,0 +1,1 @@
+reply_see_luckyman: "本次的抽奖名单为：\n{inv}\n共计：{num}人\n抽奖结果为：{luckyman}"

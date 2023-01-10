@@ -14,7 +14,13 @@ if string.find(goodscode, goodname)then
 
     local filetext
     file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..code..".txt", "r")
-    filetext = file:read("*a")
+    if file ~= nil then
+        filetext = file:read("*a")
+    else
+        file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\"..msg.fromGroup.."\\Goods_Group"..msg.fromGroup.."_"..code..".csv", "r")
+        filetext = file:read("*a")
+    end
+    
     msg.goods = goodname
     msg.inv = filetext
     

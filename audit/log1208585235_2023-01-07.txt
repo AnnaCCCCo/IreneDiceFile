@@ -2,3 +2,5 @@
 2023-01-07 11:41:00	8	警告：艾丽妮所在系统CPU占用达94.5%
 2023-01-07 11:46:01	2	提醒：艾丽妮所在系统CPU占用降至17.3%
 	0	近似匹配&拍卖:依次读取文档内信息并发送
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA失败:...rsonal\MIRAI_~1\DICE12~1\mod\Auction\script\REPLY_~2.LUA:3: attempt to perform arithmetic on a nil value
+2023-01-07 23:31:57	8	警告:狗屁不通文章生成器(2993796338)对艾丽妮发送了含敏感词消息:\ncnm啊啊啊啊啊啊啊啊啊啊啊

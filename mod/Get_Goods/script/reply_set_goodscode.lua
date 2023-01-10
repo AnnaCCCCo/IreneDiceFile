@@ -9,5 +9,9 @@ file:close()
 msg.goodscode = goodscode
 msg.goodname = goodsname
 
+local file = io.open(
+    "C:\\Users\\Administrator\\OneDrive\\Lists\\" .. msg.fromGroup .. "\\Goods_Group" .. msg.fromGroup ..
+        "_" .. goodscode .. ".csv", "a+")
+
 --return goodsname
 return "{reply_set_goodscode}"

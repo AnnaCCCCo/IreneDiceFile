@@ -1,0 +1,27 @@
+	0	Today:2023-01-09->2023-01-10
+2023-01-10 10:58:40	1	艾丽妮\n注册speech 33 项\n注册help 18 项\n注册reply 81 项\n注册script 20 份\n模块加载完毕√
+2023-01-10 10:58:40	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 10:58:40	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:92: attempt to concatenate a nil value (global 'code')
+2023-01-10 11:12:50	1	艾丽妮\n注册speech 34 项\n注册help 18 项\n注册reply 81 项\n注册script 20 份\n模块加载完毕√
+2023-01-10 11:12:50	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 11:12:50	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:92: attempt to concatenate a nil value (global 'code')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:93: bad argument #1 to 'find' (string expected, got FILE*)
+2023-01-10 11:21:13	1	艾丽妮\n注册speech 34 项\n注册help 18 项\n注册reply 81 项\n注册script 20 份\n模块加载完毕√
+2023-01-10 11:21:13	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 11:21:13	1	已手动加载艾丽妮的配置√
+2023-01-10 11:23:29	1	艾丽妮\n注册speech 34 项\n注册help 18 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-10 11:23:29	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 11:23:29	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\LUCKY_~1\script\LUCKY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\LUCKY_~1\script\LUCKY_~1.LUA:6: bad argument #2 to 'find' (string expected, got nil)
+	2	艾丽妮调用reply_lucky_draw脚本返回值格式错误(table)!
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:93: attempt to index a nil value (local 'tempFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:93: attempt to index a nil value (local 'tempFile')
+2023-01-10 12:05:36	1	艾丽妮\n注册speech 34 项\n注册help 18 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-10 12:05:36	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 12:05:36	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用reply_lucky_draw脚本返回值格式错误(table)!
+2023-01-10 12:17:18	1	艾丽妮\n注册speech 34 项\n注册help 18 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-10 12:17:18	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-10 12:17:18	1	已手动加载艾丽妮的配置√

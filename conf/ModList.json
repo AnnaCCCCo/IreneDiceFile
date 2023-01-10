@@ -26,5 +26,9 @@
 {
 "name": "ChatBot",
 "active": true
+},
+{
+"name": "Lucky_Draw",
+"active": true
 }
 ]
