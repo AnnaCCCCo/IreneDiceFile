@@ -9,6 +9,7 @@ reply_move_goods: "{cn}接了{origin}有关{goodsname}的转单，请管理打�
 reply_get_move_force: "{cn}接了转的位~"
 reply_del_goods: "{cn}撤了一些谷，请管理打表注意~"
 reply_pay_money: "{cn}交了{goods}的肾"
-reply_upload_pics: "【{discribe}】\n感觉要开新谷了，请记得设置代码~\n设置可以直接复制：（注意删掉括号，如需设置抽奖图片记得在[谷名]中添加“抽奖”二字【与】其他关键词）\n\n设置谷子名称 {goodscode} 名：[谷名]"
+reply_upload_pics: "【{discribe}】\n感觉要开新谷了，请记得设置代码~\n设置可以直接复制：\n（注意删掉括号，如需设置抽奖图片记得在[谷名]中添加“抽奖”二字，如需设置排发货图片记得在[谷名]中添加“排发货”字样，以上两种需注意添加其他关键词（如当日日期）以和其他类似图片区分）\n\n设置谷子名称 {goodscode} 名：[谷名]"
 reply_add_lucky: "已经给{cn}登记上抽奖啦~会不会中奖呢（思考）"
 reply_add_lucky_fail: "{cn}已经登记过一次了！可不能贪心哟"
+reply_inline_parcel: "{cn}排了清货~ \n\n {reciv}请注意清货流程：\n1. 带cn、list、囤货点平铺图找囤货咪\n2. 付预收邮费与包装费\n3. 勿催，等待回复单号\n\n以上条件未完成者不会得到任何回复，且不再对不回复原因做任何说明。"

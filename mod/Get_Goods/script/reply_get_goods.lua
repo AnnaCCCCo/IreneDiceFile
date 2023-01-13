@@ -104,7 +104,15 @@ if goodsname ~= "[某种谷子]" then
                 msg.cn = cn;
                 return "{reply_add_lucky}"
             end
+        elseif (string.find(goodsname, "排发货")) then
+            local file = io.open("C:\\Users\\Administrator\\OneDrive\\Lists\\" .. msg.fromGroup .. "\\Goods_Group" ..
+                                     msg.fromGroup .. "_" .. pic .. ".csv", "a+")
+            file:write(os.date("%X %Y/%m/%d"), ",", msg.fromQQ, ",", cn, ",", "\n")
+            file:close()
 
+            msg.cn = cn
+            msg.reciv = "[CQ:at,qq=" .. msg.fromQQ .. "]"
+            return "{reply_inline_parcel}"
         else
             filelist = {}
             -- table.insert(filelist, "- " .. msg.fromQQ)

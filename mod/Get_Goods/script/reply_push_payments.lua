@@ -14,9 +14,9 @@ qqnums = {}
 for qqnum in string.gmatch(atPplGroup, "%d+") do
     table.insert(qqnums, qqnum.." ")
     if string.find(text,"image") then
-        eventMsg(notice_head..qqnum.." "..message..image, msg.gid, "674037656")
+        eventMsg(notice_head..qqnum.." "..message..image, msg.fromQQ, "674037656")
     else
-        eventMsg(notice_head..qqnum.." "..message, msg.gid, "674037656")
+        eventMsg(notice_head..qqnum.." "..message, msg.fromQQ, "674037656")
     end
     
     sleepTime(5000)

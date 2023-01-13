@@ -30,5 +30,13 @@
 {
 "name": "Lucky_Draw",
 "active": true
+},
+{
+"name": "Mercari_moni",
+"active": true
+},
+{
+"name": "Sent_Parcel",
+"active": true
 }
 ]

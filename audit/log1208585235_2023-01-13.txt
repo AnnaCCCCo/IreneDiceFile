@@ -1,0 +1,23 @@
+	0	Today:2023-01-12->2023-01-13
+2023-01-13 10:24:58	1	°¬ÀöÄÝ\n×¢²áspeech 35 Ïî\n×¢²áhelp 19 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 10:24:58	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ8Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 10:24:58	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+	2	°¬ÀöÄÝÔËÐÐD:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE47B2~1.LUAÊ§°Ü:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE47B2~1.LUA:30: cannot open file 'C:\Users\Administrator\OneDrive\Lists\667546784\Goods_Group667546784_V5bCQAyNzc2NDk1OTfKKQRjG8zQDw åï¼šæ˜Ÿé—´é£žè¡Œ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTd.fCpj09ZQMA åï¼šå›½æ’ä¸‰åˆ‡é¡µ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTc1fSpjpVh9AA åï¼šå›½æ’ä¸‰åˆ‡é¡µç‰¹å…¸ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODRRZC5jo7gOKw åï¼šcafepuå§å”§ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTcHsh1jlpMyHg åï¼šcafeå†°ç®±è´´ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTe31i5jeGXNAQ åï¼šæµ·æ²«å¦ˆä½ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTeY0eli8rOaKg åï¼šå¦ˆä½è½¬ä½ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTdw8y5jl6fKFQ åï¼š9.24xyæ‹¼ç›˜ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTfCsR1jH44SGg åï¼šcafe Bç›’puå§å”§ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTfV åï¼šçŽ›æ©çº³å­£ç‰¹å…¸ é•¿åº¦ï¼š19ï¼‰\nV5bCQAyNzc2NDk1OTeNzi9jWp1pHA åï¼š9.25å¤§ç¤¼åŒ…æ‹¼ç›˜ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTfQPSxjgOIOMA åï¼šå¸¸è§„å¦ˆä½ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTe5cTBj åï¼šæ£‰èŠ±ç³–vol2 é•¿åº¦ï¼š23ï¼‰\nV5bCQAyNzc2NDk1OTe4cTBjbqLZDQ åï¼šæ£‰èŠ±ç³–vol2ç‰¹å…¸ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODSp åï¼š9.26xyæ‹¼ç›˜ é•¿åº¦ï¼š19ï¼‰\nV5bCQAyNzc2NDk1OTcZ4TdjB4O7IQ åï¼š17.0é€šè¡Œè¯ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTegaThjMap0Gg åï¼šçŽ›æ©çº³å­£ç‰¹å…¸ é•¿åº¦ï¼š29ï¼‰\nV5bCQAyNzc2NDk1OTegaThjMap0Gg åï¼šçŽ›æ©çº³å­£ç‰¹å…¸åŠ å¼€ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2NTQ0NjQ4NDETAkRjQVogFg åï¼šå¦ˆä½1 é•¿åº¦ï¼š29ï¼‰\nV5bCQA2NTQ0NjQ4NDHELkZjkbdyNA åï¼šå¹»è±¡é»‘å…”æ˜Žä¿¡ç‰‡æ‹¼é‚® é•¿åº¦ï¼š29ï¼‰\nV5bCQA2NTQ0NjQ4NDG65UdjG09uDw åï¼šä»™å¥³ä¸‰å¼¹ç²’ç²’ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2NTQ0NjQ4NDH2 åï¼šé€šè¡Œè¯11.0 é•¿åº¦ï¼š19ï¼‰\nV5bCQA2NTQ0NjQ4NDF1EEhjJ8ksDw åï¼šæ½®æ±ä¹‹æ­Œæ£‰èŠ±ç³–vol2 é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODS8.lVjH.cJCA åï¼šå¿½ç•¥ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODTY.lVj.UqkCQ åï¼šå¿½ç•¥ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODRcsGRjeisLCA åï¼šåˆæˆçŽ‰ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODTwHGtjWxUVCg åï¼štest é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODQY54ZjZxkbFg åï¼šmrfz é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODTM3rtj åï¼šåŒå·§å…‹åŠ›ç™¾å¥‡ é•¿åº¦ï¼š23ï¼‰\nV5bCQA2Njc1NDY3ODRj5btjzyGqFA åï¼šèœ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODQ41Lxj åï¼š1.10æŠ½å¥– é•¿åº¦ï¼š23ï¼‰\nV5bCQA2Njc1NDY3ODQd4bxjF8PSLg åï¼šæŠ½å¥–æ‰“è¡¨ é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODQE4rxjFn0GAQ åï¼šä¸ƒå‘¨å¹´æŠ½å¥– é•¿åº¦ï¼š29ï¼‰\nV5bCQA2Njc1NDY3ODRjx8BjByUpFg åï¼šæŽ’å‘è´§ é•¿åº¦ï¼š29ï¼‰\n.csv' (Illegal byte sequence)
+2023-01-13 11:13:44	1	°¬ÀöÄÝ\n×¢²áspeech 36 Ïî\n×¢²áhelp 19 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 11:13:44	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ8Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 11:13:44	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+2023-01-13 11:15:19	1	°¬ÀöÄÝ\n×¢²áspeech 36 Ïî\n×¢²áhelp 19 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 11:15:19	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ8Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 11:15:19	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+2023-01-13 11:17:21	1	°¬ÀöÄÝ\n×¢²áspeech 36 Ïî\n×¢²áhelp 19 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 11:17:21	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ8Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 11:17:21	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+2023-01-13 11:18:28	1	°¬ÀöÄÝ\n×¢²áspeech 36 Ïî\n×¢²áhelp 19 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 11:18:28	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ8Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 11:18:28	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+2023-01-13 11:52:58	1	°¬ÀöÄÝ\n×¢²áspeech 37 Ïî\n×¢²áhelp 20 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 11:52:58	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ9Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 11:52:58	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì
+2023-01-13 12:14:10	1	°¬ÀöÄÝ\n×¢²áspeech 37 Ïî\n×¢²áhelp 20 Ïî\n×¢²áreply 83 Ïî\n×¢²áscript 23 ·Ý\nÄ£¿é¼ÓÔØÍê±Ï¡Ì
+2023-01-13 12:14:10	1	\n¶ÁÈ¡PublicDeck/ÖÐµÄ10¸öÎÄ¼þ, ¹²289¸öÌõÄ¿\n¶ÁÈ¡/mod/ÖÐµÄ9Ã¶mod\n¶ÁÈ¡/conf/CustomHelp.jsonÖÐµÄ7Ìõ°ïÖú´ÊÌõ\n¶ÁÈ¡/plugin/ÖÐµÄ12¸ö½Å±¾, ¹²44ÌõÖ¸Áî£¬1ÏîÈÎÎñ\n¶ÁÈ¡/conf/CustomMsgReply.jsonÖÐµÄ18Ìõ×Ô¶¨Òå»Ø¸´\nÀ©Õ¹ÅäÖÃ¶ÁÈ¡Íê±Ï¡Ì
+2023-01-13 12:14:10	1	ÒÑÊÖ¶¯¼ÓÔØ°¬ÀöÄÝµÄÅäÖÃ¡Ì

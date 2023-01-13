@@ -1,0 +1,17 @@
+	0	Today:2023-01-10->2023-01-11
+2023-01-11 12:15:26	1	艾丽妮\n注册speech 34 项\n注册help 19 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-11 12:15:26	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-11 12:15:26	1	已手动加载艾丽妮的配置√
+2023-01-11 12:17:25	1	艾丽妮\n注册speech 34 项\n注册help 19 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-11 12:17:25	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的7枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-11 12:17:25	1	已手动加载艾丽妮的配置√
+2023-01-11 12:19:09	1	艾丽妮\n注册speech 35 项\n注册help 19 项\n注册reply 82 项\n注册script 22 份\n模块加载完毕√
+2023-01-11 12:19:09	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的8枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-11 12:19:09	1	已手动加载艾丽妮的配置√
+	2	艾丽妮调用Mercari_search脚本返回值格式错误(boolean)!
+2023-01-11 12:24:16	1	艾丽妮\n注册speech 35 项\n注册help 19 项\n注册reply 82 项\n注册script 22 份\n模块加载完毕√
+2023-01-11 12:24:16	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的8枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-11 12:24:16	1	\n读取用户记录1079条\n读取玩家记录772条\n读取群聊记录24条\n用户数据读取完毕
+2023-01-11 12:24:16	1	艾丽妮初始化完成，用时368毫秒
+	1	Dice! WebUI 正于端口62742运行，本地可通过浏览器访问http://localhost:62742\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
