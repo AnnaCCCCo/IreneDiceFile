@@ -1,0 +1,26 @@
+	0	Today:2023-01-16->2023-01-17
+2023-01-17 10:34:53	1	艾丽妮\n注册speech 38 项\n注册help 21 项\n注册reply 84 项\n注册script 24 份\n模块加载完毕√
+2023-01-17 10:34:53	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-17 10:34:53	1	已手动加载艾丽妮的配置√
+2023-01-17 10:37:29	1	艾丽妮\n注册speech 37 项\n注册help 18 项\n注册reply 82 项\n注册script 22 份\n模块加载完毕√
+2023-01-17 10:37:36	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 81 项\n注册script 21 份\n模块加载完毕√
+2023-01-17 10:37:39	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 80 项\n注册script 20 份\n模块加载完毕√
+2023-01-17 10:38:08	1	艾丽妮\n注册speech 35 项\n注册help 16 项\n注册reply 79 项\n注册script 19 份\n模块加载完毕√
+2023-01-17 10:38:29	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 80 项\n注册script 20 份\n模块加载完毕√
+2023-01-17 10:50:57	1	艾丽妮\n注册speech 35 项\n注册help 16 项\n注册reply 79 项\n注册script 19 份\n模块加载完毕√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:16: cannot open file 'C:\Users\Administrator\OneDrive\Lists\AAAAlbumCodeList667546784.csv' (No such file or directory)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:18: attempt to perform arithmetic on a nil value
+2023-01-17 11:09:42	1	艾丽妮\n注册speech 35 项\n注册help 16 项\n注册reply 79 项\n注册script 19 份\n模块加载完毕√
+2023-01-17 11:09:42	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-17 11:09:42	1	已手动加载艾丽妮的配置√
+2023-01-17 11:09:48	1	艾丽妮\n注册speech 36 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+	2	艾丽妮调用New_Storage脚本返回值格式错误(table)!
+2023-01-17 11:14:29	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-17 11:14:29	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-17 11:14:29	1	已手动加载艾丽妮的配置√
+2023-01-17 11:15:39	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-17 11:15:39	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-17 11:15:39	1	已手动加载艾丽妮的配置√
+2023-01-17 11:22:38	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-17 11:22:38	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-17 11:22:38	1	已手动加载艾丽妮的配置√

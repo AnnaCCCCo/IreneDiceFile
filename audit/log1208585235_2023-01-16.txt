@@ -1,0 +1,10 @@
+	0	Today:2023-01-15->2023-01-16
+2023-01-16 00:24:21	1	更新外源不良记录条目1条
+2023-01-16 21:13:23	1	好友添加请求，来自 暴怒豚鼠(2118144347):\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+2023-01-16 21:40:39	1	好友添加请求，来自 龚萍(255445216):\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+2023-01-16 21:42:50	1	好友添加请求，来自 钟情(787959012):\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+2023-01-16 22:01:38	1	好友添加请求，来自 该二的时候从没犹豫过▲(157021368):海绵\n已同意

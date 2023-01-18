@@ -13,3 +13,4 @@ reply_upload_pics: "【{discribe}】\n感觉要开新谷了，请记得设置代
 reply_add_lucky: "已经给{cn}登记上抽奖啦~会不会中奖呢（思考）"
 reply_add_lucky_fail: "{cn}已经登记过一次了！可不能贪心哟"
 reply_inline_parcel: "{cn}排了清货~ \n\n {reciv}请注意清货流程：\n1. 带cn、list、囤货点平铺图找囤货咪\n2. 付预收邮费与包装费\n3. 勿催，等待回复单号\n\n以上条件未完成者不会得到任何回复，且不再对不回复原因做任何说明。"
+reply_upload_storage: "{discribe}已经到囤货点可以清货啦~\n如需查询全部到货请输入：\n&团内到货"

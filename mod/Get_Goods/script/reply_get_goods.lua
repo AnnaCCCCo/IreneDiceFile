@@ -45,10 +45,6 @@ if (msg.fromQQ == "2356057513") then
     cn = "玉霖生"
 end
 
-if (msg.fromQQ == "2176452830") then
-    cn = "蓝山"
-end
-
 list = {}
 local goodsname = "[某种谷子]"
 
