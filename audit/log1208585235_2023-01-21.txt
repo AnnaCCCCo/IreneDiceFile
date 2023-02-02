@@ -1,0 +1,8 @@
+	0	Today:2023-01-20->2023-01-21
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value
+2023-01-21 01:21:54	1	更新外源不良记录条目1条
+2023-01-21 16:52:34	1	好友添加请求，来自 Per Aspera Ad Astra(2724574190):我是Per Aspera Ad Astra\n已同意
+2023-01-21 17:44:58	1	收到Per Aspera Ad Astra(2724574190)的入群邀请:[](576736679)[0/0]已同意
+2023-01-21 18:05:37	1	收到死告.Nocturne.(674037656)的入群邀请:[](767465355)[0/0]\n已同意（信任用户）
+2023-01-21 18:05:44	1	艾丽妮新加入:[雀巢东北饭馆分馆](767465355)[80/1000]（已获使用许可）,邀请者死告.Nocturne.(674037656)，群主桂花糯米雀(1741289791)；\n用户浓度41% (33/79), 信任度0.07
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')

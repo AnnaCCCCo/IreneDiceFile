@@ -1,0 +1,19 @@
+	0	Today:2023-01-19->2023-01-20
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: bad argument #2 to 'sub' (number expected, got string)
+2023-01-20 11:09:39	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-20 11:09:39	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-20 11:09:39	1	已手动加载艾丽妮的配置√
+2023-01-20 11:10:00	1	艾丽妮\n注册speech 37 项\n注册help 17 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-20 11:10:00	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-20 11:10:00	1	已手动加载艾丽妮的配置√
+2023-01-20 11:11:40	1	艾丽妮\n注册speech 37 项\n注册help 18 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-20 11:11:40	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-20 11:11:40	1	已手动加载艾丽妮的配置√
+2023-01-20 11:28:51	1	艾丽妮\n注册speech 38 项\n注册help 18 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-20 11:28:51	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的7条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-20 11:28:51	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\PC_INV~1\script\REPLY_~4.LUA:8: attempt to perform arithmetic on a nil value

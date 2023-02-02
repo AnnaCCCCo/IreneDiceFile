@@ -7,7 +7,7 @@ config:
   KickedBanInviter: 1
   AllowStranger: 2
   CheckGroupLicense: 1
-  ReferMsgReply: 1
+  ReferMsgReply: 0
   DisableStrangerChat: 0
 clock:
   - moment: 11:45

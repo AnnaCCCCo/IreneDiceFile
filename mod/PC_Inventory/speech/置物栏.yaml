@@ -7,4 +7,5 @@ reply_inventory_del: "已将{item}移出{pc}的置物栏\n剩余物品:\n{inv}"
 reply_inventory_del_empty: "请{pc}输入待移出的物品"
 reply_inventory_not_found: "{pc}的置物栏内并无{item}×"
 reply_inventory_clean: "{pc}的置物栏已被清空"
+reply_inventory_empty_this: "{pc}好像在这个团还没有排过东西~"
 

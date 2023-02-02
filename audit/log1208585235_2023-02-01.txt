@@ -1,0 +1,15 @@
+	0	Today:2023-01-31->2023-02-01
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+2023-02-01 00:32:42	1	好友添加请求，来自 佤(1322165777):\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~4.LUA:15: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE75E3~1.LUA:5: attempt to perform arithmetic on a nil value
+2023-02-01 12:07:03	1	好友添加请求，来自 二炮ken(823568144):我是二炮ken\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')

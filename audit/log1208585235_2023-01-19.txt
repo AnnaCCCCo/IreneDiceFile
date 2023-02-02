@@ -1,0 +1,14 @@
+	0	Today:2023-01-18->2023-01-19
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:30: bad argument #1 to 'find' (string expected, got nil)
+2023-01-19 23:43:51	1	好友添加请求，来自 三青又欠凸^-^凸(3577445369):我是清欢\n已同意
+2023-01-19 23:44:49	1	提醒：\n私聊窗口监测到三青又欠凸^-^凸(3577445369)高频发送指令达7/30s\n最近指令: .draw 来一杯
+2023-01-19 23:47:46	1	好友添加请求，来自 Multivers(2257723609):你好\n已同意
+2023-01-19 23:48:47	1	好友添加请求，来自 Multivers(2257723609):你好，小审判官\n已同意
+2023-01-19 23:59:31	1	好友添加请求，来自 Multivers(2257723609):你好，小审判官\n已同意

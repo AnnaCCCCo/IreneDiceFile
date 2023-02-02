@@ -1,0 +1,7 @@
+	0	Today:2023-01-26->2023-01-27
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:18: cannot open file 'C:\Users\Administrator\OneDrive\Lists\AAAAlbumCodeList745242796.txt' (No such file or directory)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:18: cannot open file 'C:\Users\Administrator\OneDrive\Lists\AAAAlbumCodeList745242796.txt' (No such file or directory)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:18: cannot open file 'C:\Users\Administrator\OneDrive\Lists\AAAAlbumCodeList745242796.txt' (No such file or directory)
+2023-01-27 23:19:42	1	艾丽妮新加入:[kqc这盛世如你所愿](651393924)[8/1000],邀请者死告.Nocturne.(674037656)，群主拂冬来。(1434643584)；\n用户浓度100% (7/7), 信任度122713344
+2023-01-27 23:20:05	1	艾丽妮新加入:[随缘吃点（sc诚3团）](433655549)[32/1000]，群主菜(920363990)；\n用户浓度29% (9/31), 信任度0.16
+2023-01-27 23:20:56	1	已授权[随缘吃点（sc诚3团）](433655549)许可使用

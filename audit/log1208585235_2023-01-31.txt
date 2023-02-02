@@ -1,0 +1,15 @@
+	0	Today:2023-01-30->2023-01-31
+2023-01-31 01:22:10	1	更新外源不良记录条目2条
+2023-01-31 10:27:47	1	艾丽妮\n注册speech 38 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-01-31 10:27:47	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-01-31 10:27:47	1	已手动加载艾丽妮的配置√
+2023-01-31 10:44:12	1	已自定义strAddFriend的文本
+2023-01-31 10:45:02	1	已自定义strAddFriend的文本
+2023-01-31 15:09:41	1	提醒：\n私聊窗口监测到Multivers(2257723609)高频发送指令达6/30s\n最近指令: .drawarknights十连
+2023-01-31 17:22:55	1	好友添加请求，来自 二色蓮花蝶(36584354):我是二色蓮花蝶\n已同意
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REA277~1.LUA:18: cannot open file 'C:\Users\Administrator\OneDrive\Lists\AAAAlbumCodeList610739783.txt' (No such file or directory)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
