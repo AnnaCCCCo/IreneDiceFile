@@ -1,0 +1,28 @@
+	0	Today:2023-02-05->2023-02-06
+2023-02-06 15:49:28	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 15:49:28	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 15:49:28	1	已手动加载艾丽妮的配置√
+2023-02-06 15:51:46	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 15:51:46	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 15:51:46	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\NEW_ST~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\NEW_ST~1\script\REPLY_~2.LUA:4: attempt to index a nil value (global 'file')
+2023-02-06 15:52:24	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 15:52:24	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 15:52:24	1	已手动加载艾丽妮的配置√
+2023-02-06 15:56:36	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 15:56:36	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 15:56:36	1	已手动加载艾丽妮的配置√
+2023-02-06 16:00:33	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 16:00:33	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 16:00:33	1	已手动加载艾丽妮的配置√
+2023-02-06 16:13:39	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 16:13:39	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 16:13:39	1	已手动加载艾丽妮的配置√
+2023-02-06 16:16:58	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 16:16:58	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 16:16:58	1	已手动加载艾丽妮的配置√
+2023-02-06 16:26:19	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-06 16:26:19	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-06 16:26:19	1	已手动加载艾丽妮的配置√
+	0	近似匹配单人游戏:艾丽妮可以陪你跑团（单人团）\n目前可玩模组有两个：\n未名湖畔 请输入【.nonamelake】开始游戏\n向火独行 请输入【.flame1】开始游戏\n\n注意：游戏为COC7版单人模组，游戏过程中包含快速车卡过程，如果艾丽妮曾记录你之前车的卡，请输入【.st clr】清空再进入游戏\n跑团的一些基础指令：\n【.st [属性名][数值]】会给自己的角色卡设定某个属性\n【.rc [属性名]】直接使用角色卡已设置数值进行属性检定\n【.sc [成功减值]/[失败减值]】会进行san check，并根据成功或失败自动进行下一步数值检定，并自动修改人物卡的数据\n\n遇到问题请及时反馈master~\n祝玩得开心~
+2023-02-06 18:38:18	1	已自定义strHlpMsg的文本

@@ -1,0 +1,16 @@
+	0	Today:2023-02-03->2023-02-04
+2023-02-04 07:49:31	1	更新外源不良记录条目3条
+	0	近似匹配吃谷辅助:艾丽妮拥有强大的吃谷辅助功能~请输入对应条目获取详细信息\n\n【自动打表功能】.help 自动打表\n【自动list】.help 背包list\n【抽捆】.help 抽捆\n【相册抽奖】.help 抽奖\n【到货监控】.help 到货监控\n【排发货监控】.help 排发货监控
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE14C1~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\RE14C1~1.LUA:9: bad argument #2 to 'sub' (number expected, got nil)
+2023-02-04 15:26:01	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-04 15:26:01	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-04 15:26:01	1	已手动加载艾丽妮的配置√
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:3: bad argument #2 to 'sub' (number expected, got nil)
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: attempt to perform bitwise operation on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: attempt to perform bitwise operation on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: attempt to perform bitwise operation on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: attempt to perform bitwise operation on a nil value
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: attempt to perform bitwise operation on a nil value
+	2	艾丽妮加载D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:33: 'end' expected (to close 'if' at line 3) near 'if'
+	2	艾丽妮运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:31: attempt to perform bitwise operation on a nil value
+	0	近似匹配吃谷辅助:艾丽妮拥有强大的吃谷辅助功能~请输入对应条目获取详细信息\n\n【自动打表功能】.help 自动打表\n【自动list】.help 背包list\n【抽捆】.help 抽捆\n【相册抽奖】.help 抽奖\n【到货监控】.help 到货监控\n【排发货监控】.help 排发货监控

@@ -1,0 +1,16 @@
+{
+ "log": {
+  "start": 1676623567,
+  "lastMsg": 0,
+  "name": "快刀1",
+  "file": "g193772501_快刀1.txt",
+  "logging": true
+ },
+ "chats": [
+  {
+   "gid": 193772501
+  }
+ ],
+ "create_time": 1676623567,
+ "update_time": 1676623567
+}

@@ -1,0 +1,12 @@
+	0	Today:2023-02-18->2023-02-19
+2023-02-19 08:21:31	1	更新外源不良记录条目1条
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+2023-02-19 22:10:41	1	本审判官\n注册speech 43 项\n注册help 20 项\n注册reply 83 项\n注册script 21 份\n模块加载完毕√
+2023-02-19 22:10:41	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的13个脚本, 共47条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-19 22:10:41	1	\n读取用户记录1468条\n读取玩家记录1025条\n读取群聊记录53条\n用户数据读取完毕
+2023-02-19 22:10:41	1	本审判官初始化完成，用时842毫秒
+	1	Dice! WebUI 正于端口63111运行，本地可通过浏览器访问http://localhost:63111\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\GET_GO~1\script\REPLY_~2.LUA:52: attempt to index a nil value (global 'goodsCodeFile')

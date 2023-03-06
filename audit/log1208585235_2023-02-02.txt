@@ -1,1 +1,9 @@
 	0	Today:2023-02-01->2023-02-02
+2023-02-02 16:47:20	1	提醒：\n私聊窗口监测到Seiwa(1633494135)高频发送指令达6/30s\n最近指令: .draw arknights十连
+2023-02-02 16:47:39	2	警告：\n私聊窗口Seiwa(1633494135)高频发送指令达13/30s\n最近指令: .draw arknights十连
+2023-02-02 17:37:01	1	艾丽妮\n注册speech 41 项\n注册help 20 项\n注册reply 80 项\n注册script 21 份\n模块加载完毕√
+2023-02-02 17:37:01	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的12个脚本, 共44条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-02-02 17:37:01	1	\n读取用户记录1330条\n读取玩家记录935条\n读取群聊记录39条\n用户数据读取完毕
+2023-02-02 17:37:01	1	艾丽妮初始化完成，用时778毫秒
+	1	Dice! WebUI 正于端口63411运行，本地可通过浏览器访问http://localhost:63411\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
