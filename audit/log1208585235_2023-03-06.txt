@@ -1,0 +1,17 @@
+2023-03-06 10:21:38	1	本审判官\n注册speech 43 项\n注册help 20 项\n注册reply 83 项\n注册script 21 份\n模块加载完毕√
+2023-03-06 10:21:38	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的13个脚本, 共47条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-03-06 10:21:39	1	\n读取用户记录1541条\n读取玩家记录1071条\n读取群聊记录55条\n用户数据读取完毕
+2023-03-06 10:21:39	1	本审判官初始化完成，用时464毫秒
+	1	Dice! WebUI 正于端口61996运行，本地可通过浏览器访问http://localhost:61996\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
+2023-03-06 10:34:29	1	本审判官\n注册speech 43 项\n注册help 20 项\n注册reply 83 项\n注册script 21 份\n模块加载完毕√
+2023-03-06 10:34:29	1	\n读取PublicDeck/中的10个文件, 共289个条目\n读取/mod/中的10枚mod\n读取/conf/CustomHelp.json中的9条帮助词条\n读取/plugin/中的13个脚本, 共47条指令，1项任务\n读取/conf/CustomMsgReply.json中的18条自定义回复\n扩展配置读取完毕√
+2023-03-06 10:34:29	1	\n读取用户记录1541条\n读取玩家记录1071条\n读取群聊记录55条\n用户数据读取完毕
+2023-03-06 10:34:29	1	本审判官初始化完成，用时432毫秒
+	1	Dice! WebUI 正于端口51890运行，本地可通过浏览器访问http://localhost:51890\n默认用户名为admin密码为password，详细教程请查看 https://forum.kokona.tech/d/721-dice-webui-shi-yong-shuo-ming
+	0	已成功刷新软件包缓存：37个拓展可用
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\DRAW_B~1\script\REPLY_~1.LUA:32: bad 'for' limit (number expected, got nil)
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: bad argument #1 to 'find' (string expected, got nil)
+2023-03-06 22:20:44	1	收到你算哪球冰淇淋(1259809331)的入群邀请:[](549486096)[0/0]已同意
+2023-03-06 22:20:53	1	本审判官新加入:[渡春风2.0](549486096)[11/1000],邀请者你算哪球冰淇淋(1259809331)，群主你算哪球冰淇淋(1259809331)；\n用户浓度10% (1/10), 信任度0\n可识别同系Dice!1位
+2023-03-06 22:34:32	1	更新外源不良记录条目1条
