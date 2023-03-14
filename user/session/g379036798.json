@@ -1,10 +1,10 @@
 {
  "log": {
-  "start": 1676036029,
-  "lastMsg": 1678070069,
+  "start": 0,
+  "lastMsg": 1678339808,
   "name": "快刀4",
   "file": "g379036798_快刀4.txt",
-  "logging": true
+  "logging": false
  },
  "chats": [
   {
@@ -12,5 +12,5 @@
   }
  ],
  "create_time": 1676036029,
- "update_time": 1678088459
+ "update_time": 1678355203
 }

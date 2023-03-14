@@ -1,7 +1,7 @@
 {
  "log": {
-  "start": 1676619454,
-  "lastMsg": 1678070069,
+  "start": 0,
+  "lastMsg": 1678339808,
   "name": "快刀乱魔",
   "file": "g197042504_快刀乱魔.txt",
   "logging": false
@@ -12,5 +12,5 @@
   }
  ],
  "create_time": 1676619454,
- "update_time": 1678202370
+ "update_time": 1678355114
 }

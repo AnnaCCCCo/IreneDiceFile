@@ -1,0 +1,8 @@
+	0	Today:2023-03-12->2023-03-13
+2023-03-13 00:11:16	1	更新外源不良记录条目1条
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: bad argument #1 to 'find' (string expected, got nil)
+2023-03-13 15:14:41	8	警告：本审判官所在系统CPU占用达93.4%
+2023-03-13 15:19:43	2	提醒：本审判官所在系统CPU占用降至1.1%
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: bad argument #1 to 'find' (string expected, got nil)
+	2	本审判官运行D:\Personal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA失败:...sonal\MIRAI_~1\DICE12~1\mod\SENT_P~1\script\REPLY_~1.LUA:32: bad argument #1 to 'find' (string expected, got nil)
+2023-03-13 18:59:03	1	提醒：\n私聊窗口监测到解爻(873867381)高频发送指令达6/30s\n最近指令: &方舟十连

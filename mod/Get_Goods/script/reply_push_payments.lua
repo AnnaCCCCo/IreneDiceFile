@@ -20,8 +20,8 @@ for qqnum in string.gmatch(atPplGroup, "%d+") do
         eventMsg(notice_head..qqnum.." "..message, msg.fromQQ, "674037656")
     end
     
-    ransleep = ranint(0,5000)
-    sleepTime(5000 + ransleep)
+    ransleep = ranint(0,10000)
+    sleepTime(60000 + ransleep)
 end
 
 return "已向"..table.concat(qqnums," ").."催肾"
