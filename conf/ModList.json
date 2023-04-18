@@ -1,11 +1,11 @@
 [
 {
 "name": "PC_Inventory",
-"active": true
+"active": false
 },
 {
 "name": "Get_Goods",
-"active": true
+"active": false
 },
 {
 "name": "Draw_Bundle",
@@ -17,11 +17,11 @@
 },
 {
 "name": "AImage",
-"active": true
+"active": false
 },
 {
 "name": "AImage",
-"active": true
+"active": false
 },
 {
 "name": "ChatBot",
@@ -41,6 +41,14 @@
 },
 {
 "name": "New_Storage",
+"active": true
+},
+{
+"name": "Push_Payments",
+"active": true
+},
+{
+"name": "Send_Msg_Group",
 "active": true
 }
 ]

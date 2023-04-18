@@ -1,1 +1,1 @@
-reply_draw_res: "本次抽选{draw_info}抽{draw_num}位的结果是：{res_name}\n\n统计为：{name_count}"
+reply_draw_res: "本次抽选已结束，所有抽选的结果是\n{res_table}\n\n按cn排序结果是\n{name_res_table}"
